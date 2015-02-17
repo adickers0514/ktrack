@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: KalaheoTrack
+        psr4_prefix: KalaheoTrack
+        src_path: app
