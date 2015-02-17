@@ -20,7 +20,7 @@
            </div>
 
             <div class="navigation-items whiteText">
-                @include('static.navigation-items')
+                @include('Static.navigation-items')
             </div>
 
 

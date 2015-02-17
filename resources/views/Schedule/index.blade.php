@@ -20,7 +20,7 @@
              <span class="lightHomePageLogo">Kalaheo Track & Field</span>
            </div>
             <div class="navigation-items blackText">
-                @include('static.navigation-items')
+                @include('Static.navigation-items')
             </div>
        </div>
 
