@@ -10,7 +10,7 @@ class StaticPagesController extends Controller {
 
 	public function index()
 	{
-		return view('static.index');
+		return view('Static.index');
 	}
 
 
