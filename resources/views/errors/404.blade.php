@@ -17,6 +17,7 @@ h2 {
 
 </style>
   <body>
+ @include('Static.offscreenmenu')
 
 
 
@@ -67,7 +68,8 @@ h2 {
 
 
 
-  <script src="/js/schedule.js"></script>
+  <script src="/js/followbar.js"></script>
+<script src="/js/offscreen_menu.js"></script>
 
 
   </body>

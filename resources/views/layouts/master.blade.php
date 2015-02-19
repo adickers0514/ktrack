@@ -6,6 +6,7 @@
 
 <link rel="stylesheet" href="/bower_components/bootstrap/dist/css/bootstrap.min.css">
 <script src="/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="/bower_components/components-font-awesome/css/font-awesome.min.css">
 <link rel='stylesheet' href='http://s.codepen.io/assets/reset/normalize.css'>
 
 

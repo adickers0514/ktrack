@@ -9,10 +9,7 @@
 
   <body>
 
-<div id="offscreenmenu" class="hide">
-
-</div>
-
+    @include('Static.offscreenmenu')
 
 
 
@@ -192,7 +189,7 @@
 
 
   <script src="/js/cover.js"></script>
-  <script src="/js/init_panel.js"></script>
+  <script src="/js/offscreen_menu.js"></script>
 
   </body>
 

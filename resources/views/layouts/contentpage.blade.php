@@ -9,7 +9,7 @@
 
   <body>
 
-
+@include('Static.offscreenmenu')
 
  <div>
 
@@ -49,6 +49,7 @@
   </div>
 
   <script src="/js/followbar.js"></script>
+<script src="/js/offscreen_menu.js"></script>
 
 
   </body>

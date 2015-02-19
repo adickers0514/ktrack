@@ -1,12 +1,45 @@
-@extends('app')
+@extends('layouts.master')
 
 @section('content')
-<div class="container-fluid">
-	<div class="row">
-		<div class="col-md-8 col-md-offset-2">
-			<div class="panel panel-default">
-				<div class="panel-heading">Register</div>
-				<div class="panel-body">
+
+<title>Kalaheo Track 2015</title>
+
+<link href="/css/cover.css" rel="stylesheet" type="text/css">
+
+
+  <body>
+
+
+
+ <div>
+
+
+
+
+           <nav id="followBar-Container" class="follow-lighter">
+
+               <div class="followBarDark">
+                   <div class="main-logo">
+                     <span class="lightHomePageLogo">Kalaheo Track & Field</span>
+                   </div>
+
+               </div>
+
+           </nav>
+
+
+
+            </div>
+
+
+
+  <div class="content_wrapper backgroundColorWhite">
+    <div class="page_container">
+          <div class="page_core page_content">
+
+                <h1 class="colorBlack">Track & Field Registration</h1>
+
+
 					@if (count($errors) > 0)
 						<div class="alert alert-danger">
 							<strong>Whoops!</strong> There were some problems with your input.<br><br>
@@ -18,48 +51,139 @@
 						</div>
 					@endif
 
-					<form class="form-horizontal" role="form" method="POST" action="/auth/register">
+
+
+					<form  role="form" method="POST" action="/auth/register">
 						<input type="hidden" name="_token" value="{{ csrf_token() }}">
 
-						<div class="form-group">
-							<label class="col-md-4 control-label">Name</label>
-							<div class="col-md-6">
-								<input type="text" class="form-control" name="name" value="{{ old('name') }}">
-							</div>
-						</div>
 
-						<div class="form-group">
-							<label class="col-md-4 control-label">E-Mail Address</label>
-							<div class="col-md-6">
-								<input type="email" class="form-control" name="email" value="{{ old('email') }}">
-							</div>
-						</div>
 
-						<div class="form-group">
-							<label class="col-md-4 control-label">Password</label>
-							<div class="col-md-6">
-								<input type="password" class="form-control" name="password">
-							</div>
-						</div>
 
-						<div class="form-group">
-							<label class="col-md-4 control-label">Confirm Password</label>
-							<div class="col-md-6">
-								<input type="password" class="form-control" name="password_confirmation">
-							</div>
-						</div>
+						 <div class="row">
+                                            <div class="col-md-12">
 
-						<div class="form-group">
-							<div class="col-md-6 col-md-offset-4">
-								<button type="submit" class="btn btn-primary">
-									Register
-								</button>
-							</div>
-						</div>
+                                                 <p class="parentTypeLarge colorMediumGray">In perparation for the track meets this season, each student athlete needs to be entered on the team roster. To complete your entry, we need your full name, grade and date of birth. Help your coaches ensure your information is accurate by entering it here:</p>
+
+                                                <h2 class="pushDown colorBlack">Athlete Info</h2>
+
+                                                <!--  First name Input -->
+                                                <div class="form-group ">
+                                                        {!! Form::label('firstname', 'First name:', ['class' => 'sr-only']) !!}
+                                                        {!! Form::text('firstname', null, ['class' => 'form-control input-lg', 'placeholder' => 'First name']) !!}
+                                                </div>
+
+                                                <!--  Last name Input -->
+                                                <div class="form-group">
+                                                        {!! Form::label('lastname', 'last name:', ['class' => 'sr-only']) !!}
+                                                        {!! Form::text('lastname', null, ['class' => 'form-control  input-lg', 'placeholder' => 'Last name']) !!}
+                                                </div>
+
+                                                <!--  grade Input -->
+                                                <div class="form-group">
+                                                        {!! Form::label('grade', 'Grade:', ['class' => 'sr-only']) !!}
+                                                        <p>Grade level:</p>
+                                                        {!! Form::select('grade', ['9'=>'9th Grade - Freshman', '10'=>'10th Grade - Sophomore', '11'=>'11th Grade - Junior', '12'=>'12th Grade - Senior'], null, ['class' => 'form-control  input-lg']) !!}
+                                                </div>
+
+                                                <!--  BIRTH DATE Input -->
+                                                <div class="form-group">
+                                                        {!! Form::label('birthdate', 'last name:', ['class' => 'sr-only']) !!}
+                                                        {!! Form::text('birthdate', null, ['class' => 'form-control  input-lg', 'placeholder' => 'Birthdate (mm/dd/yyyy)']) !!}
+                                                </div>
+
+                                                <h2 class="pushDown colorBlack">Contact & Account Info</h2>
+                                                <p class="parentTypeLarge colorMediumGray">We'd like to keep you informed of meet changes, scores, or any other alerts that come along throughout the season. Providing an email and an SMS-enabled phone# will ensure we can keep you up to date:</p>
+
+                                                <!--  Email Input -->
+                                                <div class="form-group ">
+                                                        {!! Form::label('email', 'Email address:', ['class' => 'sr-only']) !!}
+                                                        {!! Form::text('email', null, ['class' => 'form-control  input-lg', 'placeholder' => 'Email address']) !!}
+                                                </div>
+                                                <!--  SMS/Phone confirm-->
+                                                <div class="form-group ">
+                                                        {!! Form::label('phone', 'Phone number:', ['class' => 'sr-only']) !!}
+                                                        {!! Form::text('phone', null, ['class' => 'form-control  input-lg', 'placeholder' => 'Phone (xxx)xxx-xxxx']) !!}
+                                                </div>
+
+
+                                                <p class="parentTypeLarge colorMediumGray pushDown">Select a password for this account, in case you need to return here and update your contact information:</p>
+                                                <!--  Email Input confirm-->
+                                                <div class="form-group">
+                                                        {!! Form::label('password', 'Password:', ['class' => 'sr-only']) !!}
+                                                        {!! Form::password('password', ['class' => 'form-control input-lg' , 'placeholder' => 'Password']) !!}
+                                                </div>
+                                                <!--  Email Input confirm-->
+                                                <div class="form-group">
+                                                        {!! Form::label('password_confirmation', 'Password confirmation:', ['class' => 'sr-only']) !!}
+                                                        {!! Form::password('password_confirmation',['class' => 'form-control input-lg' , 'placeholder' => 'Confirm your password']) !!}
+                                                </div>
+
+
+
+                                                <div class="form-group pushDown">
+                                                        {!! Form::submit('Register student athlete', ['class' => 'btn btn-primary form-control  input-lg']) !!}
+
+                                                </div>
+
+
+
+
+
+
+
+                                            </div>
+                                        </div>
+
+
+
+
+
+
+
+
+
 					</form>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
+
+    </div>
+
+
+          </div>
+    </div>
+
+
+
+
+
+  <script src="/js/followbar.js"></script>
+
+
+  </body>
 @endsection
+@stop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

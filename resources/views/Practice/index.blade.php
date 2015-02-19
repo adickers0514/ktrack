@@ -9,7 +9,7 @@
 
   <body>
 
-
+@include('Static.offscreenmenu')
 
  <div>
 
@@ -60,7 +60,7 @@
 
 
   <script src="/js/schedule.js"></script>
-
+<script src="/js/offscreen_menu.js"></script>
 
   </body>
 

@@ -11,7 +11,16 @@
 |
 */
 
-Route::get('/','StaticPagesController@index');
+
+Route::get('logout',function() {
+    Auth::logout();
+    return Redirect::route('home');
+});
+Route::get('/', ['as' => 'home', 'uses' => 'StaticPagesController@index']);
+Route::get('home', 'StaticPagesController@index');
+
+Route::get('profile/{id}', 'ProfileController@showProfile');
+
 Route::get('contact','StaticPagesController@contact');
 Route::get('practice', 'PracticeController@index');
 Route::get('schedule', 'ScheduleController@index');

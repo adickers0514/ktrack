@@ -271,11 +271,12 @@ h1 {
     position: fixed;
     width: 350px;
     height: 100%;
-    background-color: #ffcc00;
+    background-color: #f0f0f0;
     color: #000;
     top: 0px;
     left: 0px;
     z-index:9999;
+
 
 }
 
@@ -285,4 +286,79 @@ h2 {
     font-weight: 200;
     font-size: 40px;
     line-height: 52px;
+}
+
+
+.loggedInUser {
+    display: block;
+    padding: 8px;
+    background-color: #000;
+    color: #fff;
+    border: 3px solid #000;
+    border-radius: 25px;
+
+}
+
+
+.osm-close-control {
+    position:absolute;
+    top: 10px;
+    left:300px;
+    width: 37px;
+    height: 37px;
+    overflow: hidden;
+    background: url('/img/osm-close-control.png') no-repeat;
+    cursor: pointer;
+}
+
+.osm-hr {
+    position:absolute;
+    top:54px;
+    left:15px;
+    width: 325px;
+    border-bottom: 1px solid #cccccc;
+
+}
+
+.osm-vert-menu  {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.osm-vert-menu  li {
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    color: #888;
+    width: 310px;
+
+    padding-left: 6px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin-bottom: 6px;
+}
+
+#osm-menu1 a {
+    text-decoration: none;
+}
+
+#osm-menu1 {
+    position: absolute;
+    top:50px;
+    left: 15px;
+}
+
+.osm-vert-menu li:hover {
+    background-color: #e2e2e2;
+    color: #000;
+}
+
+.vertGap {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.toggle-menu:hover {
+    cursor: pointer;
 }

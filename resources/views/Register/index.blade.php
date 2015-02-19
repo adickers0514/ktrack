@@ -1,3 +1,7 @@
+
+
+
+
 @extends('layouts.master')
 
 @section('content')
@@ -43,7 +47,7 @@
 
 
 
-                <div
+
 
 
 
@@ -138,7 +142,7 @@
 
           </div>
     </div>
-  </div>
+
 
 
 
@@ -147,5 +151,3 @@
 
 
   </body>
-
-  @stop
