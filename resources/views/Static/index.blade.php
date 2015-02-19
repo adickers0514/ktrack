@@ -9,11 +9,18 @@
 
   <body>
 
+<div id="offscreenmenu" class="hide">
+
+</div>
 
 
- <div >
 
-   <nav id="followBar-Container">
+
+ <div>
+
+
+
+   <nav id="followBar-Container" class="pageObject">
        <div class="followBarLight">
            <div class="main-logo">
              <span>Kalaheo Track & Field</span>
@@ -22,6 +29,8 @@
             <div class="navigation-items whiteText">
                 @include('Static.navigation-items')
             </div>
+
+
 
 
        </div>
@@ -41,7 +50,8 @@
 
 </div>
 
-  <div class="main-screen">
+  <div class="main-screen" class="pageObject">
+
     <div id="logo"></div>
     <ul class="slideshow">
 
@@ -65,7 +75,7 @@
     </ul>
   </div>
 
-  <div class="content_wrapper backgroundColorWhite">
+  <div class="content_wrapper backgroundColorWhite pageObject">
     <div class="page_container">
           <div class="page_core page_content">
               <img class="brandmarkImage" src="/img/logo/x_med_gray_on_clear.png">
@@ -92,10 +102,9 @@
 
                 </p>
                 <ul class="infoBullets colorInfo sizeSmall">
-                    <li>$20 track & field team fee. This fee goes towards the purchase of our team shirts, and will be mandatory for each athlete to wear when traveling to competitions this season.</li>
-                    <li>General season begins Monday February 9, 2015 @3:30PM</li>
-                    <li>Weight Training forms are due today!</li>
-                    <li>Practice meet: Saturday February 21, 2:00PM @Kaiser High School. Kalaheo will provide transportation. (only running events, 10 new-to-track athletes only</li>
+                    <li>$20 TEAM FEE DUE FRIDAY 2/19!!!. This fee goes towards the purchase of our team shirts, and will be mandatory for each athlete to wear when traveling to competitions this season.</li>
+                    <li>NO MEET THIS WEEKEND</li>
+                    <li>Practice at Castle on Tuesdays/Thursday to begin next week</li>
                     <li>First official meet: Saturday February 28, 2:00PM @Kaiser High School. Kalaheo will provide transportation. </li>
                     <li><b>Watch this space!</b> More content, the full season schedule and more is coming online over the next few days - stay tuned!</li>
 
@@ -181,7 +190,9 @@
   </div>
 
 
+
   <script src="/js/cover.js"></script>
+  <script src="/js/init_panel.js"></script>
 
   </body>
 

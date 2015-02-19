@@ -1,5 +1,7 @@
 <?php namespace KalaheoTrack\Http\Controllers;
 
+use KalaheoTrack\Meet;
+
 use KalaheoTrack\Http\Requests;
 use KalaheoTrack\Http\Controllers\Controller;
 
@@ -14,7 +16,9 @@ class ScheduleController extends Controller {
 	 */
 	public function index()
 	{
-		return view('Schedule.index');
+
+        $meets = Meet::orderBy('date', 'ASC')->get();
+		return view('Schedule.index', compact('meets'));
 	}
 
 }

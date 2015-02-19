@@ -34,6 +34,10 @@ a {
     margin-top:0px;
 }
 
+.NoDots {
+    list-style-type: none;
+}
+
 .hide {display: none;}
 .infoBullets li {
     padding: 2px;
@@ -228,7 +232,11 @@ h1 {
 .last {
 
 }:after {clear: both;}
-.schedule-column {.width: 200px; float: left;}
+
+.schedule-column {
+    width: 200px;
+    float: left;
+}
 
 .schedule-break {
     overflow: auto;
@@ -241,4 +249,19 @@ h1 {
 
 .lightHomePageLogo:hover {
     cursor: pointer;
+}
+
+
+/*  OFF SCREEN MENU */
+
+#offscreenmenu {
+    position: fixed;
+    width: 350px;
+    height: 100%;
+    background-color: #ffcc00;
+    color: #000;
+    top: 0px;
+    left: 0px;
+    z-index:9999;
+
 }

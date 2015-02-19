@@ -1,9 +1,6 @@
 $(document).ready(function() {
 
 
-//Configure ScotchPanel
-
-
 
 
 $(window).scroll(function() {
