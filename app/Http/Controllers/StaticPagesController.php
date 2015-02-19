@@ -13,6 +13,10 @@ class StaticPagesController extends Controller {
 		return view('Static.index');
 	}
 
+    public function contact()
+    {
+        return view('Static.contact');
+    }
 
 
 }

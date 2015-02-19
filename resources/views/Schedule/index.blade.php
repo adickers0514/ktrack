@@ -61,7 +61,7 @@
 
 
 
-  <script src="/js/schedule.js"></script>
+  <script src="/js/followbar.js"></script>
 
 
   </body>

@@ -30,8 +30,9 @@ a {
     list-style-image: none;
     font-weight: 400;
     padding: 0;
-    margin-left: 15px;
+    margin-left: 0px;
     margin-top:0px;
+
 }
 
 .NoDots {
@@ -103,6 +104,16 @@ h4 {
 .pushDown {
     padding-top: 50px;
 }
+
+.inlineParagraphPadding {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.tight {
+
+}
+
 
 .sizeSmall {
     font-size: 14px;
@@ -236,7 +247,7 @@ h1 {
 }:after {clear: both;}
 
 .schedule-column {
-    width: 200px;
+    width: 120px;
     float: left;
 }
 

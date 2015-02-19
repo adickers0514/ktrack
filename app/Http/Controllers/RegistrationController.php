@@ -14,7 +14,9 @@ class RegistrationController extends Controller {
 	 */
 	public function index()
 	{
+        $note = "Today is Wednesday, February 18, 2015";
 
+        return view('Register.index', compact('note'));
 	}
 
 	/**

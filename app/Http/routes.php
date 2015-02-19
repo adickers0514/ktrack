@@ -12,6 +12,7 @@
 */
 
 Route::get('/','StaticPagesController@index');
+Route::get('contact','StaticPagesController@contact');
 Route::get('practice', 'PracticeController@index');
 Route::get('schedule', 'ScheduleController@index');
 Route::get('register', 'RegistrationController@index');
