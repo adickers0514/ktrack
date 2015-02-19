@@ -22,5 +22,5 @@
 
 
 <script src="/js/profile.js"></script>
-<script src="/js/offscreen_menu.js"></script>
+
 @stop

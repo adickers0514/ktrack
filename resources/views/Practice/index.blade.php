@@ -42,8 +42,10 @@
                 <h1 class="colorBlack">Practice Today:</h1>
                 <h3> {{ $today }}</h3>
 
-                <p>Regularly scheduled practice - 3:30 - 5:30PM</p>
-                <p>Mid/Distance See Coach Fiana - off-campus practice today.</p>
+                <p>Regularly scheduled practice @Kalaheo - 3:30 - 5:30PM</p>
+                <p>Sprinters -> Tempo day.</p>
+                <p>Vaulters -> Practice at Castle</p>
+                <p>Mid/Distance -> See Coach Fiana for specifics</p>
 
 
 
