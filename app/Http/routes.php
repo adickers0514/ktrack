@@ -14,6 +14,7 @@
 Route::get('/','StaticPagesController@index');
 Route::get('practice', 'PracticeController@index');
 Route::get('schedule', 'ScheduleController@index');
+Route::get('register', 'RegistrationController@index');
 
 Route::controllers([
 	'auth' => 'Auth\AuthController',
