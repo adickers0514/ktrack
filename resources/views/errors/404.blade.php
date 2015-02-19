@@ -6,7 +6,16 @@
 
 <link href="/css/cover.css" rel="stylesheet" type="text/css">
 
+<style>
 
+h2 {
+    color: #888;
+    font-weight: 200;
+    font-size: 40px;
+    line-height: 52px;
+}
+
+</style>
   <body>
 
 
