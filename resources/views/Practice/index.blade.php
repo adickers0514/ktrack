@@ -43,9 +43,10 @@
                 <h3> {{ $today }}</h3>
 
                 <p>Regularly scheduled practice @Kalaheo - 3:30 - 5:30PM</p>
-                <p>Sprinters -> Tempo day.</p>
-                <p>Vaulters -> Practice at Castle</p>
-                <p>Mid/Distance -> See Coach Fiana for specifics</p>
+                <p>Although we may change plans if the rain continues</p>
+                <p>We will still meet up by the lockers for announcements, and completion of team registration in the computer lab (15 mins)</p>
+                <p>Sprint squad: bring your journals, we are lifting this afternoon</p>
+
 
 
 
