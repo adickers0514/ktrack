@@ -42,7 +42,7 @@
                 <h1 class="colorBlack">Practice Today:</h1>
                 <h3> {{ $today }}</h3>
 
-                <p>Regularly scheduled practice for Mid/Long Distance, and Sprinters: 3:30 - 5:30. Reminders: First OIA track meet this Saturday @Castle High School. There will be no transportation - we will meet in the stands at Castle at 12:30PM. Student athletes that have paid the team fee will receive their uniforms at the end of practice today.</p>
+                <p>Regularly scheduled practice today at Kalaheo: 3:30 - 5:30. <p><b>Mid/Long Distance:</b>35-45 minutes (maintence run) + 6x100 striders, stretch, and core work</p><p><b>Sprinters: </b>Speed Work - 100/200  8x60, 200/400 4x150. Weight room - be sure to bring your journal.</p>Reminders: First OIA track meet this Saturday @Castle High School. There will be no transportation - we will meet in the stands at Castle at 12:30PM. Student athletes that have paid the team fee will receive their uniforms at the end of practice today.</p>
 
 
 
