@@ -42,8 +42,8 @@
                 <h1 class="colorBlack">Practice Today:</h1>
                 <h3> {{ $today }}</h3>
 
-                <p>No practice today - it's Sunday</p>
-                
+                <p>Regularly scheduled practice: 3:30 - 5:30. Student athletes that have paid their team fee will receive their uniform at the end of practice.</p>
+
 
 
 
