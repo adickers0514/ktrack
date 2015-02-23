@@ -42,7 +42,7 @@
                 <h1 class="colorBlack">Practice Today:</h1>
                 <h3> {{ $today }}</h3>
 
-                <p>Regularly scheduled practice: 3:30 - 5:30. Student athletes that have paid their team fee will receive their uniform at the end of practice.</p>
+                <p>Regularly scheduled practice for Mid/Long Distance, and Sprinters: 3:30 - 5:30. Reminders: First OIA track meet this Saturday @Castle High School. There will be no transportation - we will meet in the stands at Castle at 12:30PM. Student athletes that have paid the team fee will receive their uniforms at the end of practice today.</p>
 
 
 
