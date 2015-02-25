@@ -42,11 +42,11 @@
                 <h1 class="colorBlack">Practice Today:</h1>
                 <h3> {{ $today }}</h3>
 
-                <p><b>FIRST PRACTICE AT CASTLE HIGH SCHOOL TODAY</b></p>
+                <p><b>Regularly Schedule Practice @Kalaheo, 3:30 - 5:30PM</b></p>
 
-                <p>Practice will start between 3:45 and 4:00PM - please meet in the parking lot outside the track.</p>
-                <p><b>Mid/Long Distance:</b> 1 mile warm up, active drills. <p>1000 800 600 400 2x200</p> 2 min. recovery between each run. As distance decreases, speed increases: 200's are FULL SPEED (Speed Dev workout). 1 mile cooldown. Stretch. Core work. Push-ups.</p>
-                <p><b>Sprinters:</b> 800m warmup. Stretch. Active Stretch. Speed Drills. Introduction to block starts. <p>30/30 200m repeats x 8 sets -> 200m run under :30, :30 rest -> repeat</p> 800m cool down. Stretch.</p>
+
+                <p><b>Mid/Long Distance:</b> 30-40min run. 6x100m striders. Stretch. “B” Lift Day. After practice: Foam Roll & Ice.</p>
+                <p><b>Sprinters:</b>Fundamentals: pushing out of 3-point start. Speed day: hills 25m x 8. Lift day: Deadlifts + Pull Ups.</p>
 
 
 
