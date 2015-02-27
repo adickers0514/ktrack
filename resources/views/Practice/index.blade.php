@@ -42,19 +42,11 @@
                 <h1 class="colorBlack">Practice Today:</h1>
                 <h3> {{ $today }}</h3>
 
-                <p><b>Practice at Castle High School - 4PM to 6PM</b></p>
+                <p><b>Pre-meet workout</b></p>
 
 
-                <p><b>Mid/Long Distance:</b> mile warm-up, active drills.</p>
-                <p>8x200 w/60-90 sec. recovery @ 800/mile race pace 10 min. cooldown . Stretch. Abs. Pull-ups</p>
-                <p><b>Sprinters:</b> 800m warm-up. Static stretching. Active stretching. Speed drills. Starting block fundamentals - be sure to bring your spikes. Introduction to relays (4x100, 4x400, hand offs)</p>
-                <p>Track Meet Practice: 400, 200, 100. 100%. You will be placed into heats, full block starts. 10mins between events. </p>
-
-
-
-
-
-
+                <p><b>Mid/Long Distance:</b> 10-15 min. easy run. 8x100 striders, Abs. stretch</p>
+                <p><b>Sprinters:</b> Warm-up, Stretch. Drills. Blind relay passes (4x100)</p>
 
           </div>
 

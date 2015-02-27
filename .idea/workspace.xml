@@ -28,8 +28,8 @@
       <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/Practice/index.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8092869" vertical-offset="174" max-vertical-offset="1817">
-              <caret line="50" column="133" selection-start-line="50" selection-start-column="133" selection-end-line="50" selection-end-column="133" />
+            <state vertical-scroll-proportion="0.7711443" vertical-offset="174" max-vertical-offset="1633">
+              <caret line="48" column="89" selection-start-line="48" selection-start-column="89" selection-end-line="48" selection-end-column="89" />
               <folding />
             </state>
           </provider>
@@ -109,8 +109,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="497" />
-    <option name="y" value="53" />
+    <option name="x" value="490" />
+    <option name="y" value="38" />
     <option name="width" value="2009" />
     <option name="height" value="1255" />
   </component>
@@ -460,7 +460,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="497" y="53" width="2009" height="1255" extended-state="0" />
+    <frame x="490" y="38" width="2009" height="1255" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -859,8 +859,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/Practice/index.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8092869" vertical-offset="174" max-vertical-offset="1817">
-          <caret line="50" column="133" selection-start-line="50" selection-start-column="133" selection-end-line="50" selection-end-column="133" />
+        <state vertical-scroll-proportion="0.7711443" vertical-offset="174" max-vertical-offset="1633">
+          <caret line="48" column="89" selection-start-line="48" selection-start-column="89" selection-end-line="48" selection-end-column="89" />
           <folding />
         </state>
       </provider>
