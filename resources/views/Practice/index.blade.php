@@ -42,11 +42,13 @@
                 <h1 class="colorBlack">Practice Today:</h1>
                 <h3> {{ $today }}</h3>
 
-                <p><b>Pre-meet workout</b></p>
+                <p><b>Regularly schedule practice: Kalaheo 3:30 - 5:30PM</b></p>
 
 
-                <p><b>Mid/Long Distance:</b> 10-15 min. easy run. 8x100 striders, Abs. stretch</p>
-                <p><b>Sprinters:</b> Warm-up, Stretch. Drills. Blind relay passes (4x100)</p>
+                <p><b>Mid/Long Distance:</b> HILL RUN:
+                                             Kaneohe Bay Drive 6x100m striders. Stretch. “A” Lift Day
+                                             After practice: Foam Roll & Ice.</p>
+                <p><b>Sprinters:</b> Warm-up, Stretch. Speed drills. Max velocity drills + De-brief from Saturday's meet. 6 x 60m, x2.</p>
 
           </div>
 
