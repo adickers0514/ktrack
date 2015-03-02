@@ -80,7 +80,7 @@
             <div class="colorDarkGray parentTypeLarge">
             <h1>Meet Results </h1>
             <h3>2/28 Meet at Castle</h3>
-                         <p>Click here for <a href="/results/02282015_Castle_Results.pdf">results report from Saturday's meet</a> at Castle high school now available (with corrected times): </p>
+                         <p>Click for <a href="{!! asset('results/02282015_Castle_Results.pdf') !!}">Results report</a> from Castle track meet on 2/28, now available (with corrected times).</p>
             <hr />
               </div>
 
