@@ -48,7 +48,7 @@
                 <p><b>Mid/Long Distance:</b>1 mile warm-up; active drills; 8x400
                                             90 sec. recovery between each one; be at mile race pace; If you are shooting for a5
                                             1 mile cooldown . Stretch. Abs. Push-ups</p>
-                <p><b>Sprinters:</b> 800m Warm-up. Stretch. Speed drills. Specials: Hurdles, High-jump. Block starts. Relay passes (4x100 steps). Tempo workout: 300m x2, 200m x2, 150x 2/3</p>
+                <p><b>Sprinters:</b> 800m Warm-up. Stretch. Speed drills. Specials: Hurdles, High-jump (with Castle), Block starts. Relay passes (4x100 steps). Tempo workout: 300m x2, 200m x2, 150x 2/3</p>
 
           </div>
 
