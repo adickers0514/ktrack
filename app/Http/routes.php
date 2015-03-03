@@ -27,7 +27,7 @@ Route::get('schedule', 'ScheduleController@index');
 Route::get('register', 'RegistrationController@index');
 
 
-
+Route::get('/results/{object}', 'ResultsController@getresults');
 
 Route::controllers([
 	'auth' => 'Auth\AuthController',

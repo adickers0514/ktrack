@@ -42,13 +42,13 @@
                 <h1 class="colorBlack">Practice Today:</h1>
                 <h3> {{ $today }}</h3>
 
-                <p><b>Regularly schedule practice: Kalaheo 3:30 - 5:30PM</b></p>
+                <p><b>Regularly schedule practice: Castle High School - 4:00PM - 6:00PM</b></p>
 
 
-                <p><b>Mid/Long Distance:</b> HILL RUN:
-                                             Kaneohe Bay Drive 6x100m striders. Stretch. “A” Lift Day
-                                             After practice: Foam Roll & Ice.</p>
-                <p><b>Sprinters:</b> Warm-up, Stretch. Speed drills. Max velocity drills + De-brief from Saturday's meet. 6 x 60m, x2.</p>
+                <p><b>Mid/Long Distance:</b>1 mile warm-up; active drills; 8x400
+                                            90 sec. recovery between each one; be at mile race pace; If you are shooting for a5
+                                            1 mile cooldown . Stretch. Abs. Push-ups</p>
+                <p><b>Sprinters:</b> 800m Warm-up. Stretch. Speed drills. Specials: Hurdles, High-jump. Block starts. Relay passes (4x100 steps). Tempo workout: 300m x2, 200m x2, 150x 2/3</p>
 
           </div>
 
