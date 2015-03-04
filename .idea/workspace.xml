@@ -25,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="routes.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/Static/index.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.38142622" vertical-offset="0" max-vertical-offset="1206">
-              <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.5721393" vertical-offset="1265" max-vertical-offset="5037">
+              <caret line="85" column="86" selection-start-line="85" selection-start-column="86" selection-end-line="85" selection-end-column="86" />
               <folding />
             </state>
           </provider>
@@ -91,11 +91,11 @@
         <option value="$PROJECT_DIR$/resources/views/Profile/index.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/Static/offscreenmenu.blade.php" />
         <option value="$PROJECT_DIR$/public/css/cover.css" />
-        <option value="$PROJECT_DIR$/resources/views/Static/index.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/Practice/index.blade.php" />
         <option value="$PROJECT_DIR$/config/app.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/ResultsController.php" />
         <option value="$PROJECT_DIR$/app/Http/routes.php" />
+        <option value="$PROJECT_DIR$/resources/views/Static/index.blade.php" />
       </list>
     </option>
   </component>
@@ -715,18 +715,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Static/index.blade.php">
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43864015" vertical-offset="1265" max-vertical-offset="4991">
-          <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.38142622" vertical-offset="0" max-vertical-offset="1206">
+          <caret line="29" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/Static/index.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38142622" vertical-offset="0" max-vertical-offset="1206">
-          <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.5721393" vertical-offset="1265" max-vertical-offset="5037">
+          <caret line="85" column="86" selection-start-line="85" selection-start-column="86" selection-end-line="85" selection-end-column="86" />
           <folding />
         </state>
       </provider>
