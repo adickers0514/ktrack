@@ -78,6 +78,14 @@
 
 
             <div class="colorDarkGray parentTypeLarge">
+                <h1>Full Schedule Available</h1>
+
+                     <p><a href="/schedule">Kalaheo Track & Field Schedule 2015</a> now updated to show the complete season all the way out to HHSSA Champs in Maui.</p>
+                <hr />
+            <div class="colorDarkGray parentTypeLarge">
+
+
+
             <h1>Meet Results </h1>
             <h3>2/28 Meet at Castle</h3>
 
@@ -117,6 +125,7 @@
 
                 </p>
                 <ul class="infoBullets colorInfo sizeSmall">
+
 
                     <li>Qualifying Meet #2 this weekend (March 7)</li>
                     <li><b>Watch this space!</b> More content, the full season schedule and more is coming online over the next few days - stay tuned!</li>
