@@ -19,15 +19,9 @@ class ResultsController extends Controller {
 
             //return response()->download( public_path() . '/results/', $filename, ['content-type'=>'application/pdf']);
 
-        //$file = File::get($file);
-        $response = response()->make(public_path() . '/results/' . $filename, 200);
-        $content_types = [
-            'application/pdf', // pdf
-        ];
-        // using this will allow you to do some checks on it (if pdf/docx/doc/xls/xlsx)
-        $response->header('Content-Type', $content_types);
-
-        return $response;
+        $file = public_path()."/results/".$filename;
+        $header = ['Content-Type: application/pdf'];
+        return response()->download($file, $filename, $header);
 
     }
 
