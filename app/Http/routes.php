@@ -29,6 +29,8 @@ Route::get('register', 'RegistrationController@index');
 
 Route::get('/results/{object}', 'ResultsController@getresults');
 
+Route::get('showTeamMembers', 'TeamManagerController@showTeamMembers');
+
 Route::controllers([
 	'auth' => 'Auth\AuthController',
 	'password' => 'Auth\PasswordController',

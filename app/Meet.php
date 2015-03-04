@@ -9,6 +9,7 @@ class Meet extends Model {
         'date',
         'start_time',
         'notes',
+        'location',
 
     ];
 

@@ -117,10 +117,8 @@
 
                 </p>
                 <ul class="infoBullets colorInfo sizeSmall">
-                    <li>$20 TEAM FEE DUE FRIDAY 2/19!!!. This fee goes towards the purchase of our team shirts, and will be mandatory for each athlete to wear when traveling to competitions this season.</li>
-                    <li>NO MEET THIS WEEKEND</li>
-                    <li>Practice at Castle on Tuesdays/Thursday to begin next week</li>
-                    <li>First official meet: Saturday February 28, 2:00PM @Kaiser High School. Kalaheo will provide transportation. </li>
+
+                    <li>Qualifying Meet #2 this weekend (March 7)</li>
                     <li><b>Watch this space!</b> More content, the full season schedule and more is coming online over the next few days - stay tuned!</li>
 
                 </ul>
