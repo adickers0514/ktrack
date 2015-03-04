@@ -20,9 +20,8 @@ class ResultsController extends Controller {
             //return response()->download( public_path() . '/results/', $filename, ['content-type'=>'application/pdf']);
 
         //$file = File::get($file);
-        $response = Response::make(public_path() . '/results/' . $filename, 200);
+        $response = response()->make(public_path() . '/results/' . $filename, 200);
         $content_types = [
-
             'application/pdf', // pdf
         ];
         // using this will allow you to do some checks on it (if pdf/docx/doc/xls/xlsx)
