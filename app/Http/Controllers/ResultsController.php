@@ -15,20 +15,8 @@ class ResultsController extends Controller {
 
     public function getResults($filename)
     {
-
-        if(file_exists($filename)) {
-            $content = file_get_contents($filename);
-
-            return response()->download(public_path . '/results', $filename, array('content-type'=>'application/pdf'));
-        } else {
-
-            App::abort(404);
-
-        }
-
-
+            return response()->download(public_path . '/results', $filename, ['content-type'=>'application/pdf']);
     }
-
 
     public function index()
 	{
