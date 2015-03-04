@@ -20,8 +20,8 @@ class ResultsController extends Controller {
             //return response()->download( public_path() . '/results/', $filename, ['content-type'=>'application/pdf']);
 
         $file = public_path()."/results/".$filename;
-        $header = ['Content-Type'=> 'application/pdf'];
-        return response()->download($file, $filename, $header);
+        //$header = ['Content-Type'=> 'application/pdf'];
+        return $file;
 
     }
 
