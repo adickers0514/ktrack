@@ -15,7 +15,7 @@ class ResultsController extends Controller {
 
     public function getResults($filename)
     {
-            return response()->download(public_path . '/results', $filename, ['content-type'=>'application/pdf']);
+            return response()->download( public_path() . '/results', $filename, ['content-type'=>'application/pdf']);
     }
 
     public function index()
