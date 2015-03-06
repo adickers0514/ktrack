@@ -42,11 +42,17 @@
                 <h1 class="colorBlack">Practice Today:</h1>
                 <h3> {{ $today }}</h3>
 
-                <p><b>Regularly schedule practice: @Kalaheo - 3:30-5:30PM</b></p>
+                <p><b>Regularly scheduled practice: Castle High School - 4:00PM - 6:00PM</b></p>
 
 
-                <p><b>Mid/Long Distance:</b>RUN: 30-40 mins. 6x100m striders. Stretch. “B” Lift Day. After practice: Foam Roll & Ice</p>
-                <p><b>Sprinters:</b> 4 laps Warm-up. Stretch. Speed drills. Specials: Hurdles, High-jump. <br />Speed workout: Jumpers/100/200 = 40m x 7, 1min rest. 20m x 7,  <br />200/400  10mins strides. 15mins easy jog </p>
+                <p><b>Mid/Long Distance:</b>TRACK WORKOUT:
+                                            1 mile warm-up/Active Stretching, drills. Stride outs (4-5 x50m) Speed workday: 2x300 2x200 2x150
+                                            (1-2 min recovery between each one) 1 mile cooldown. STRETCH!!! ICE tonight!</p>
+
+
+                <p><b>Sprinters/Jumpers:</b> 800m Warm-up. Stretch. Speed drills. Specials: Hurdles, High-jump.
+                <br />Tempo workout: Jumpers/100/200 = 100m x 8 @75%, 2min rest.
+                <br />Tempo workout: 200/400 =  4 x 250 jog @50% + 150m 90% (float speed, in flats, continous/no rest). 4x100 relay full race (spikes on)</p>
 
           </div>
 
