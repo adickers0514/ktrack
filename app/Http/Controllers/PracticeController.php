@@ -11,7 +11,11 @@ class PracticeController extends Controller {
 
 	public function index()
 	{
-        $today =   date("d F Y",strtotime(Carbon::now()));
+        //$today =   date("d F Y",strtotime(Carbon::now()));
+
+        $stamp = Carbon::now('HST');
+
+        $today =   date("d F Y",strtotime($stamp));
 
 		return view('Practice.index', compact('today'));
 	}
