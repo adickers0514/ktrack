@@ -42,17 +42,15 @@
                 <h1 class="colorBlack">Practice Today:</h1>
                 <h3> {{ $today }}</h3>
 
-                <p><b>Regularly scheduled practice: Castle High School - 4:00PM - 6:00PM</b></p>
+
+                <p>Pre-meet Friday: Kalaheo Practice Field: 3:30PM - 4:30-5:00PM</p>
+
+                <b>NOTICE:</b> <p>Next Friday we are having the team picture taken. Please be sure to come to practice next Friday, 5PM, in your uniform top.</p>
+
+                <p><b>Mid/Long Distance:</b> Pre-race: 10-15 min. easy run. 8x100 striders, stretch</p>
 
 
-                <p><b>Mid/Long Distance:</b>TRACK WORKOUT:
-                                            1 mile warm-up/Active Stretching, drills. Stride outs (4-5 x50m) Speed workday: 2x300 2x200 2x150
-                                            (1-2 min recovery between each one) 1 mile cooldown. STRETCH!!! ICE tonight!</p>
-
-
-                <p><b>Sprinters/Jumpers:</b> 800m Warm-up. Stretch. Speed drills. Specials: Hurdles, High-jump.
-                <br />Tempo workout: Jumpers/100/200 = 100m x 8 @75%, 2min rest.
-                <br />Tempo workout: 200/400 =  4 x 250 jog @50% + 150m 90% (float speed, in flats, continous/no rest). 4x100 relay full race (spikes on)</p>
+                <p><b>Sprinters/Jumpers:</b><p>Ultimate Friday</p><p>4 laps warm up. Stretch. Speed drills. Specials: Hurdles, High Jump introduction</p>
 
           </div>
 
