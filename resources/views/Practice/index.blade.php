@@ -43,14 +43,24 @@
                 <h3> {{ $today }}</h3>
 
 
-                <p>Pre-meet Friday: Kalaheo Practice Field: 3:30PM - 4:30-5:00PM</p>
+                <p>Regular practice @Kalaheo: 3:30 - 5:30/6:00PM</p>
 
-                <b>NOTICE:</b> <p>Next Friday we are having the team picture taken. Please be sure to come to practice next Friday, 5PM, in your uniform top.</p>
+                <b>NOTICE:</b> <p>THIS Friday we are having the team picture taken. Please be sure to come to practice next Friday, 5PM, in your uniform top.</p>
 
-                <p><b>Mid/Long Distance:</b> Pre-race: 10-15 min. easy run. 8x100 striders, stretch</p>
+                <p><b>Mid/Long Distance:</b> RUN: 30-45 mins. 6x100 striders. Stretch. "A" Lift day. After practice: Foam roll & Ice.</p>
 
 
-                <p><b>Sprinters/Jumpers:</b><p>Ultimate Friday</p><p>4 laps warm up. Stretch. Speed drills. Specials: Hurdles, High Jump introduction</p>
+                <p><b>Sprinters/Jumpers:</b> Speed workout - All: 5x20m A-Run + 20m Run, 3x30 standing starts.</p>
+                <p>100/200:(clocked) 2x200, 2x150, 1x60 - 90% of PB. Rest: 4mins. 2mins. 2mins</p>
+                <p>200/400:(clocked) 1x300, 1x200, 2x150, 3x60 90% of PB. Rest: 8mins. 6mins. 4mins. 2mins.</p>
+
+                <p>Lifting Day - program change: TURNING UP THE VOLUME</p>
+                <ul>
+                    <li>Back squats - 5 x 5</li>
+                    <li>Bench press - 4 x 5</li>
+                    <li>Hang clean - 4 x 5</li>
+                    <li>Box jumps - 10 x 3</li>
+                </ul>
 
           </div>
 

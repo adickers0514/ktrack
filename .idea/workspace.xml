@@ -28,7 +28,7 @@
       <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/Practice/index.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6373444" vertical-offset="428" max-vertical-offset="1725">
+            <state vertical-scroll-proportion="0.75186723" vertical-offset="290" max-vertical-offset="1955">
               <caret line="52" column="45" selection-start-line="52" selection-start-column="45" selection-end-line="52" selection-end-column="45" />
               <folding />
             </state>
@@ -109,8 +109,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="143" />
-    <option name="y" value="50" />
+    <option name="x" value="184" />
+    <option name="y" value="63" />
     <option name="width" value="1697" />
     <option name="height" value="1254" />
   </component>
@@ -386,7 +386,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="143" y="50" width="1697" height="1254" extended-state="0" />
+    <frame x="184" y="63" width="1697" height="1254" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -819,7 +819,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/Practice/index.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6373444" vertical-offset="428" max-vertical-offset="1725">
+        <state vertical-scroll-proportion="0.75186723" vertical-offset="290" max-vertical-offset="1955">
           <caret line="52" column="45" selection-start-line="52" selection-start-column="45" selection-end-line="52" selection-end-column="45" />
           <folding />
         </state>
