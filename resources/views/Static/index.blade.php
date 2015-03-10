@@ -77,11 +77,22 @@
           <div class="page_core page_content">
 
 
+
+            <div class="colorDarkGray parentTypeLarge">
+                <h1>Full March/April Training plan now available</h1>
+
+                     <p>Coach Fiana has <a href="distance">published the day-to-day workouts</a> so you can get a preview of what's coming up. You can also get it from the slide-out menu under Mid/Long Distance</p>
+                <hr />
+            </div>
+
+
+
             <div class="colorDarkGray parentTypeLarge">
                 <h1>Full Schedule Available</h1>
 
                      <p><a href="/schedule">Kalaheo Track & Field Schedule 2015</a> now updated to show the complete season all the way out to HHSSA Champs in Maui.</p>
                 <hr />
+            </div>
             <div class="colorDarkGray parentTypeLarge">
 
 

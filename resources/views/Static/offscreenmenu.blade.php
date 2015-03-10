@@ -14,7 +14,7 @@
 
 
         <li class="allCaps vertGap">Sprints & Hurdles</li>
-        <li class="allCaps">Mid/Long Distance</li>
+        <a href="distance"><li class="allCaps">Mid/Long Distance</li></a>
         <li class="allCaps">Pole Vault</li>
         <li class="allCaps">Horizontal Jumps</li>
         <li class="allCaps">Strength & Power Lifting</li>
