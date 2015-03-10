@@ -17,6 +17,8 @@ Route::get('logout',function() {
     return Redirect::route('home');
 });
 Route::get('/', ['as' => 'home', 'uses' => 'StaticPagesController@index']);
+
+Route::get('distance', 'StaticPagesController@trainingplan');
 Route::get('home', 'StaticPagesController@index');
 
 Route::get('profile/{id}', 'ProfileController@showProfile');
