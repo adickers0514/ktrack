@@ -81,7 +81,7 @@
             <h1>Meet Results </h1>
             <h3>3/7 Meet at Castle</h3>
 
-                <p><a href="/results/03072015_Castle_Results.pdf">Results</a> from the Castle track meet on 3/7, now available.</p>
+                <p><a href="/results/03072015_Castle_Results.pdf">Results</a> from the Castle track meet (3/7), now available.</p>
             <hr />
             </div>
 
