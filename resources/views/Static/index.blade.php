@@ -77,9 +77,18 @@
           <div class="page_core page_content">
 
 
+            <div class="colorDarkGray parentTypeLarge">
+            <h1>Meet Results </h1>
+            <h3>3/7 Meet at Castle</h3>
+
+                <p><a href="/results/03072015_Castle_Results.pdf">Results</a> from the Castle track meet on 3/7, now available.</p>
+            <hr />
+            </div>
+
+
 
             <div class="colorDarkGray parentTypeLarge">
-                <h1>Full March/April Training plan now available</h1>
+                <h1>Training plan online</h1>
 
                      <p>Coach Fiana has <a href="distance">published the day-to-day workouts</a> so you can get a preview of what's coming up. You can also get it from the slide-out menu under Mid/Long Distance</p>
                 <hr />
@@ -99,13 +108,11 @@
 
             <h1>Meet Results </h1>
             <h3>2/28 Meet at Castle</h3>
-
-                         <!-- <p><a href="/results/02282015_Castle_Results.pdf">Results report</a> from Castle track meet on 2/28, now available (with corrected times)</p> -->
-
-                         <p><a href="/results/02282015_Castle_Results.pdf">Results report</a> from Castle track meet on 2/28, now available (with corrected times)</p>
-
+                <p><a href="/results/02282015_Castle_Results.pdf">Results report</a> from Castle track meet on 2/28, now available (with corrected times)</p>
             <hr />
-              </div>
+            </div>
+
+
 
               <img class="brandmarkImage" src="/img/logo/x_med_gray_on_clear.png">
 

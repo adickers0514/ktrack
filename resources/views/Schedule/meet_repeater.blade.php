@@ -13,6 +13,10 @@
         <a name="{!! str_slug($meet->title, '_') !!}"></a><p>{{ $meet->title }} - <b>at {{$meet->venue->name }}</b>, {{ $meet->start_time }}<br />
         {{ $meet->notes }}</p>
 
+        @if ($meet->results)
+            <p><a href="/results/{{ $meet->results }}">{{ $meet->title }}</a> results available</p>
+        @endif
+
 <?php $count = 0 ?>
 
          <div class="schedule-column">
@@ -34,6 +38,9 @@
 
 
                     ?>
+
+
+
 
                  @endforeach
                 </ul>
