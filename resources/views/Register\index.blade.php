@@ -57,9 +57,9 @@
                 <div class="row">
                     <div class="col-md-12">
 
-                         <p class="parentTypeLarge colorMediumGray">In perparation for the track meets this season, each student athlete needs to be entered on the team roster. To complete your entry, we need your full name, grade and date of birth. Help your coaches ensure your information is accurate by entering it here:</p>
+                         <p class="parentTypeLarge colorMediumGray">Your coaches want to keep you informed of changes to the schedule, news, training updates and other momentary alerts that will arise throughout the season. Student athletes, be sure to enter your correct grade. Parents, you are encouraged to sign-up as well - be sure to enter 'Parent / Guardian' for <b>registration type</b>:</p>
 
-                        <h2 class="pushDown colorBlack">Athlete Info</h2>
+                        <h2 class="pushDown colorBlack">Registrant Info</h2>
 
                         <!--  First name Input -->
                         <div class="form-group ">
@@ -76,8 +76,8 @@
                         <!--  grade Input -->
                         <div class="form-group">
                                 {!! Form::label('grade', 'Grade:', ['class' => 'sr-only']) !!}
-                                <p>Grade level:</p>
-                                {!! Form::select('grade', ['9'=>'9th Grade - Freshman', '10'=>'10th Grade - Sophomore', '11'=>'11th Grade - Junior', '12'=>'12th Grade - Senior'], null, ['class' => 'form-control  input-lg']) !!}
+                                <p>Registration Type (Student / Parent):</p>
+                                {!! Form::select('grade', ['9'=>'9th Grade - Freshman', '10'=>'10th Grade - Sophomore', '11'=>'11th Grade - Junior', '12'=>'12th Grade - Senior', 'P'=>'Parent / Guardian'], null, ['class' => 'form-control  input-lg']) !!}
                         </div>
 
                         <!--  BIRTH DATE Input -->

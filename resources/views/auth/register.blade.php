@@ -62,9 +62,9 @@
 						 <div class="row">
                                             <div class="col-md-12">
 
-                                                 <p class="parentTypeLarge colorMediumGray">In perparation for the track meets this season, each student athlete needs to be entered on the team roster. To complete your entry, we need your full name, grade and date of birth. Help your coaches ensure your information is accurate by entering it here:</p>
+                                                 <p class="parentTypeLarge colorMediumGray">Your coaches want to keep you informed of changes to the schedule, news, training updates and other momentary alerts that will arise throughout the season. Student athletes, be sure to enter your correct grade.</p><p>Parents, you are encouraged to sign-up as well (feel free to leave out birthday...) - be sure to enter 'Parent / Guardian' for <b>registration type</b>:</p>
 
-                                                <h2 class="pushDown colorBlack">Athlete Info</h2>
+                                                <h2 class="pushDown colorBlack">Registrant Info</h2>
 
                                                 <!--  First name Input -->
                                                 <div class="form-group ">
@@ -81,8 +81,8 @@
                                                 <!--  grade Input -->
                                                 <div class="form-group">
                                                         {!! Form::label('grade', 'Grade:', ['class' => 'sr-only']) !!}
-                                                        <p>Grade level:</p>
-                                                        {!! Form::select('grade', ['9'=>'9th Grade - Freshman', '10'=>'10th Grade - Sophomore', '11'=>'11th Grade - Junior', '12'=>'12th Grade - Senior'], null, ['class' => 'form-control  input-lg']) !!}
+                                                        <p>Registration type (Student Athlete, Parent or Guardian):</p>
+                                                        {!! Form::select('grade', ['9'=>'9th Grade - Freshman', '10'=>'10th Grade - Sophomore', '11'=>'11th Grade - Junior', '12'=>'12th Grade - Senior', 'P'=>'Parent / Guardian'], null, ['class' => 'form-control  input-lg']) !!}
                                                 </div>
 
                                                 <!--  BIRTH DATE Input -->
@@ -90,6 +90,20 @@
                                                         {!! Form::label('birthdate', 'last name:', ['class' => 'sr-only']) !!}
                                                         {!! Form::text('birthdate', null, ['class' => 'form-control  input-lg', 'placeholder' => 'Birthdate (mm/dd/yyyy)']) !!}
                                                 </div>
+
+
+                                                <h2 class="pushDown colorBlack">Track & Field T-Shirt</h2>
+
+                                                <!--  grade Input -->
+                                                <div class="form-group">
+                                                        {!! Form::label('tshirt', 'T-Shirt:', ['class' => 'sr-only']) !!}
+                                                        <p>Would you like a Kalaheo Track & Field T-Shirt? We're going to be ordering these very soon, but to get an accurate count, we need to know if you'd like a shirt, and what size. If you would like a shirt, please enter your size below - otherwise, select 'No, thanks':</p>
+                                                        {!! Form::select('tshirt', ['No T-shirt'=>'No, thanks', 'Ladies - Small'=>'Ladies - Small', 'Ladies - Medium'=>'Ladies - Medium', 'Ladies - Large'=>'Ladies - Large','Ladies - Extra Large'=>'Ladies - Extra Large', 'Mens - Small'=>'Mens - Small', 'Mens - Medium'=>'Mens - Medium', 'Mens - Large'=>'Mens - Large', 'Mens - Extra Large'=>'Mens - Extra Large'], null, ['class' => 'form-control  input-lg']) !!}
+                                                </div>
+
+
+
+
 
                                                 <h2 class="pushDown colorBlack">Contact & Account Info</h2>
                                                 <p class="parentTypeLarge colorMediumGray">We'd like to keep you informed of meet changes, scores, or any other alerts that come along throughout the season. Providing an email and an SMS-enabled phone# will ensure we can keep you up to date:</p>
@@ -121,7 +135,7 @@
 
 
                                                 <div class="form-group pushDown">
-                                                        {!! Form::submit('Register student athlete', ['class' => 'btn btn-primary form-control  input-lg']) !!}
+                                                        {!! Form::submit('Register', ['class' => 'btn btn-primary form-control  input-lg']) !!}
 
                                                 </div>
 

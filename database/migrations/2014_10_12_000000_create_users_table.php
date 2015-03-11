@@ -21,7 +21,7 @@ class CreateUsersTable extends Migration {
 			$table->string('password', 60);
 
             $table->string('grade');
-            $table->string('birthdate');
+            $table->string('birthdate')->nullable();
             $table->string('phone');
 
 			$table->rememberToken();

@@ -7,12 +7,17 @@
     <h1 class="colorBlack">{{ Auth::user()->firstname}}'s Profile</h1>
 
 
-    <p>We're still building functionality here. Check back for more soon.</p>
+    <h3>Your account details:</h3>
 
 
     <p>First name: {{Auth::user()->firstname}}</p>
     <p>last name: {{Auth::user()->lastname}}</p>
-    <p>birth date: {{Auth::user()->birthdate}}</p>
+
+    @if (Auth::user()->tshirt)
+        <p>T-Shirt: {{Auth::user()->tshirt }}</p>
+    @endif
+
+
     <p>Email: {{Auth::user()->email}}</p>
         <p>Phone: {{Auth::user()->phone}}</p>
 
