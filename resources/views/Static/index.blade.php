@@ -54,7 +54,7 @@
 
 
 
-          <li class="image">
+
           <li class="image">
           <li class="image">
           <li class="image">
