@@ -47,21 +47,14 @@
 
                 <b>NOTICE:</b> <p>TEAM PICTURE IN 2 DAYS!!!!! Please be sure to come to practice on Friday, and bring your uniform top.</p>
 
-                <p><b>Mid/Long Distance:</b> RUN:
-                                             30-45 mins. 6x100m striders. Stretch. “A” Lift Day
-                                             After practice: Foam Roll & Ice.</p>
+                <p><b>Mid/Long Distance:</b> TRACK WORKOUT: 1 mile warm-up; active drills; 8x200 w/60-90 sec. recovery @ 800/mile race pace
+                                             10 min. cool down. Stretch. Abs. Pull-ups</p>
 
 
-                <p><b>Sprinters/Jumpers:</b> Speed workout - All: 40m A-Run x 6, accelerations, striders, </p>
-                <p>10 x 60m dash</p>
+                <p><b>Sprinters/Jumpers:</b> Warm up 800m. Stretch. Speed Drills/Form Drills. 6 x 300m (100m @50%, 100m @75%, 100m @90%), walk remaining 100m to start line. 800m cool down. Relay passes, block starts. </p>
 
-                <p>Lifting Day: Attacking the power train</p>
-                <ul>
-                    <li>Deadlifts - 5 x 5</li>
-                    <li>Bulgarian Split Squat - 5 x 8</li>
-                    <li>Single Leg Squats - 4 x 5 (each leg)</li>
-                    <li>One arm rows - 4 x 5</li>
-                </ul>
+
+
 
           </div>
 
