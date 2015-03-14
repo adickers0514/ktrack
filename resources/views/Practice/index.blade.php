@@ -43,15 +43,14 @@
                 <h3> {{ $today }}</h3>
 
 
-                <p>Regular practice @Kalaheo: 3:30 - 5:30/6:00PM</p>
+                <p>Pre-meet practice @Kalaheo: 3:30 - 4:30PM</p>
 
-                <b>NOTICE:</b> <p>TEAM PICTURE IN 2 DAYS!!!!! Please be sure to come to practice on Friday, and bring your uniform top.</p>
+                <b>NOTICE:</b> <p>TEAM PICTURE Today 5PM!!!!</p>
 
-                <p><b>Mid/Long Distance:</b> TRACK WORKOUT: 1 mile warm-up; active drills; 8x200 w/60-90 sec. recovery @ 800/mile race pace
-                                             10 min. cool down. Stretch. Abs. Pull-ups</p>
+                <p><b>Mid/Long Distance:</b>Pre-Meet, 10-15 minutes easy; 6x50 meter striders; Stretch. After practice: Foam Roll & Ice.</p>
 
 
-                <p><b>Sprinters/Jumpers:</b> Warm up 800m. Stretch. Speed Drills/Form Drills. 6 x 300m (100m @50%, 100m @75%, 100m @90%), walk remaining 100m to start line. 800m cool down. Relay passes, block starts. </p>
+                <p><b>Sprinters/Jumpers:</b> Warm up. Stretch. Striders. Hurdles. </p>
 
 
 
