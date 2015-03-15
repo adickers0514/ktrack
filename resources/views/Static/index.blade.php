@@ -77,6 +77,7 @@
     <div class="page_container">
           <div class="page_core page_content">
 
+            <div class="colorDarkGray parentTypeLarge">
             <h1>Meet Results </h1>
             <h3>3/14 Meet at Castle</h3>
                 <p><a href="/results/02282015_Castle_Results.pdf">Results report</a> from Castle track meet on 3/14, with Radford, Kahuku, Kailua and Castle</p>
