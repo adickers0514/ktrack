@@ -45,29 +45,15 @@
 
                 <p>Spring break practice at Castle High School: 4:00-5:30PM</p>
 
-                <p><b>Mid/Long Distance:</b> Early day workout </p>
+                <p><b>Mid/Long Distance:</b> See Coach Fiana's <a href="http://kalaheotrack.com/distance">practice and training schedule</a></p>
 
 
-                <p><b>Sprinters/Jumpers:</b> Warm up. Stretch. Speed Drills. </p>
+                <p><b>Sprinters/Jumpers:</b> Warm up. Stretch. </p>
 
-                <p>Tempo Workout:
+                <p>Weight Room:</p>
+                <p>Deadlifts, Shoulder Press, Bulgarian Split Squat, Step Ups</p>
 
-                 <ul>
-                    <li>100m - @80%. 2mins rest (boys < 15.0, girls < 17.0)</li>
-                    <li>200m - @80%. 3mins rest (boys < 30.0, girls < 32.0)</li>
-                    <li>300m - @75%. 4mins rest (boys < 49.0, girls < 52.0 )</li>
-                    <li>400m - @75%. 8mins rest (boys < 70.0, girls < 83.0)</li>
-                    <li>300m - @75%. 4mins rest (boys < 49.0, girls < 52.0 )</li>
-                    <li>200m - @80%. 3mins rest (boys < 30.0, girls < 32.0)</li>
-                    <li>100m - @80%. (boys < 15.0, girls < 17.0)</li>
-                 </ul>
 
-                 <p>The Character Builder (after 15mins rest)</p>
-                 <ul>
-                     <li>150m - @85%. 4mins rest (@18.5 sec)</li>
-                     <li>150m - @85%. 4mins rest (@18.5 sec)</li>
-                     <li>150m - @85%. 4mins rest (@18.5 sec)</li>
-                 </ul>
 
 
 
