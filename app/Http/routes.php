@@ -23,6 +23,8 @@ Route::get('home', 'StaticPagesController@index');
 
 Route::get('profile/{id}', 'ProfileController@showProfile');
 
+Route::get('getTeamPhones','PhoneChainController@getTeamPhones');
+
 Route::get('contact','StaticPagesController@contact');
 Route::get('practice', 'PracticeController@index');
 Route::get('schedule', 'ScheduleController@index');

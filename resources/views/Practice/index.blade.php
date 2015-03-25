@@ -43,15 +43,22 @@
                 <h3> {{ $today }}</h3>
 
 
-                <p>Spring break practice at Castle High School: 4:00-5:30PM</p>
+                <p>Practice at Castle High School: 4:00-5:30PM</p>
 
                 <p><b>Mid/Long Distance:</b> See Coach Fiana's <a href="http://kalaheotrack.com/distance">practice and training schedule</a></p>
 
 
-                <p><b>Sprinters/Jumpers:</b> Warm up. Stretch. </p>
+                <p><b>Sprinters/Jumpers:</b> Warm up. Stretch. Speed Drills (Abbreviated for hurdlers - see below) </p>
 
-                <p>Weight Room:</p>
-                <p>Deadlifts, Shoulder Press, Bulgarian Split Squat, Step Ups</p>
+                <p>400m runners:</p>
+                <p>300m x 4 @80%, in flats, (0:39-0:43s). Rest = 5mins. 4 x 150s, in spikes. Rest = 2 mins</p>
+
+                <p>100m/200m/Long jumpers runners:</p>
+                                <p>200m x 6 @80%, in flats (31.2s-36.0s). Rest = 3 mins. 4 x 150s, in spikes. Rest = 2 mins</p>
+
+                <p>Hurdlers:</p>
+                <p>300m x 3 @90% OVER HURDLES, in spikes (un-timed). Rest = 25 mins. 2 x 150s. Rest = 2 mins</p>
+
 
 
 
