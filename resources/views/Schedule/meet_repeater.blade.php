@@ -9,7 +9,9 @@
 ?>
 
 <div class="colorDarkGray schedule-break">
+
         <h3>{{  date("d F Y",strtotime($meet->date)) }}</h3>
+        <h2>{{  date("l",strtotime($meet->date)) }}</h2>
         <a name="{!! str_slug($meet->title, '_') !!}"></a><p>{{ $meet->title }} - <b>at {{$meet->venue->name }}</b>, {{ $meet->start_time }}<br />
         {{ $meet->notes }}</p>
 
