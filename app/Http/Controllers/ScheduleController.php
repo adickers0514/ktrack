@@ -17,7 +17,7 @@ class ScheduleController extends Controller {
 	public function index()
 	{
 
-        $meets = Meet::orderBy('date', 'ASC')->get();
+        $meets = Meet::orderBy('date')->get();
 		return view('Schedule.index', compact('meets'));
 	}
 
