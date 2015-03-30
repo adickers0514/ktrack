@@ -43,17 +43,21 @@
                 <h3> {{ $today }}</h3>
 
 
-                <p>Pre-meet Practice Today</p>
+                <p>JV Easterns Prep Week / Varsity Bye-week</p>
 
                 <p><b>Mid/Long Distance:</b> See Coach Fiana's <a href="http://kalaheotrack.com/distance">practice and training schedule</a></p>
 
 
-                <p><b>Sprinters/Jumpers:</b> Warm up. Stretch. Light Jog, Speed Drills. Cool down.</p>
+                <p><b>Sprinters/Jumpers:</b> Warm up. Stretch. .Speed Drills. </p>
 
+                <p>Speed Ladder: 60 / 60 / 100 / 100 / 200 -> 10 min rest <-  200 / 100 / 100 / 60 / 60. Repeated at coaches discretion.</p>
 
+                <p>Lifting day 1:</p>
+                <p>A. Back squats - 7 sets. 7th set = Drop set in 3 phases (full weight, half weight, bar-only</p>
+                <p>B. Bench Press - 5 sets. SuperSets with 10 push-ups immediately following work set</p>
+                <p>C. Calf Raises - 4 sets. 12-15 reps, heavy weight</p>
+                <p>D. Core work - 4mins</p>
 
-                <p>Hurdlers:</p>
-                <p>Hurdle work as needed - 300m prep</p> 
 
 
 
