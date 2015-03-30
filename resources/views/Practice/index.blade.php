@@ -53,7 +53,7 @@
 
 
                 <p>Hurdlers:</p>
-                <p>Hurdle work as needed - 300m prep</p> -->
+                <p>Hurdle work as needed - 300m prep</p> 
 
 
 
