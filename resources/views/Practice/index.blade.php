@@ -43,15 +43,15 @@
                 <h3> {{ $today }}</h3>
 
 
-                <p>JV Easterns Prep Week / Varsity Bye-week / Castle High School 4 to 5:30PM</p>
+                <p>No practice today - it's Sunday!</p>
 
-                <p><b>Mid/Long Distance:</b> See Coach Fiana's <a href="http://kalaheotrack.com/distance">practice and training schedule</a></p>
+                <!-- <p><b>Mid/Long Distance:</b> See Coach Fiana's <a href="http://kalaheotrack.com/distance">practice and training schedule</a></p>
 
 
                 <p><b>Sprinters/Jumpers:</b>800m jog. Warm up. Stretch. Speed Drills. </p>
 
                 <p>30 / 30s. 9-10 revolutions.</p>
-                <p>800m cool down.</p>
+                <p>800m cool down.</p> -->
 
           </div>
 

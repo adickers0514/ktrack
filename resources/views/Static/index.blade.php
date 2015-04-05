@@ -77,9 +77,34 @@
     <div class="page_container">
           <div class="page_core page_content">
 
+
+<div class="colorDarkGray parentTypeLarge">
+            <h1>Meet Results </h1>
+            <h3>Junior Varsity Eastern Division Championship from Kaiser High School</h3>
+                <p><a href="/results/04042015_JV_easterns.pdf">Results report</a> from Kaiser, where the eastern division of the OIA descended for what was a pretty poorly run track meet! While it took quite a while to get through the meet with all the technical difficulties and errors, the Kalaheo JV team performed admirably in the face of strong competition. </p>
+            <hr />
+            </div>
+
+            <div class="colorDarkGray parentTypeLarge">
+            <h1>Rainy Results from Roosevelt</h1>
+            <h3>3/28 Qualifying Meet at Roosevelt</h3>
+                <p><a href="/results/03282015_Roosevelt_Results.pdf">Results report</a> from the rain, rain, lots of rain track meet at Roosevelt High School. This was the wettest meet I've ever endured as a coach and while the team performed, I know drier weather would have elicited better performances - and drier bottoms.</p>
+            <hr />
+            </div>
+
+
+            <div class="colorDarkGray parentTypeLarge">
+            <h1>Cal Track / Ruby Tuesday Results </h1>
+            <h3>3/21 Invitational at Punahou</h3>
+                <p><a href="/results/032115_cal_track_ruby_tuesday_results.pdf">Results report</a> from the Cal Track / Ruby Tuesday Invitational held on Punahou Schools campus. Lots of rain, but high spirits and tough battles were the order of the day.</p>
+            <hr />
+            </div>
+
+
+
             <div class="colorDarkGray parentTypeLarge">
             <h1>Meet Results </h1>
-            <h3>3/14 Meet at Castle</h3>
+            <h3>3/14 Qualifying Meet at Castle</h3>
                 <p><a href="/results/03142015_Castle_Results.pdf">Results report</a> from Castle track meet on 3/14, with Radford, Kahuku, Kailua and Castle</p>
             <hr />
             </div>
@@ -88,7 +113,7 @@
 
             <div class="colorDarkGray parentTypeLarge">
             <h1>Meet Results </h1>
-            <h3>3/7 Meet at Castle</h3>
+            <h3>3/7 Qualifying Meet at Castle</h3>
 
                 <p><a href="/results/03072015_Castle_Results.pdf">Results</a> from the Castle track meet (3/7), now available.</p>
             <hr />
@@ -116,7 +141,7 @@
 
 
             <h1>Meet Results </h1>
-            <h3>2/28 Meet at Castle</h3>
+            <h3>2/28 First meet of the season at Castle</h3>
                 <p><a href="/results/02282015_Castle_Results.pdf">Results report</a> from Castle track meet on 2/28, now available (with corrected times)</p>
             <hr />
             </div>
