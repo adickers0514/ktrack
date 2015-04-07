@@ -43,15 +43,74 @@
                 <h3> {{ $today }}</h3>
 
 
-                <p>No practice today - it's Sunday!</p>
+                <p>Castle High School - Fast Surface Practice</p>
 
-                <!-- <p><b>Mid/Long Distance:</b> See Coach Fiana's <a href="http://kalaheotrack.com/distance">practice and training schedule</a></p>
+                             <p><b>Mid/Long Distance:</b> See Coach Fiana's <a href="http://kalaheotrack.com/distance">practice and training schedule, updated for April.</a></p>
 
 
-                <p><b>Sprinters/Jumpers:</b>800m jog. Warm up. Stretch. Speed Drills. </p>
+                             <p><b>Sprinters/Jumpers:</b> 800m jog. Warm up. Stretch. Speed Drills. </p>
+                            <br />
+                             <p><b>100/200</b></p>
+                             <p>10 x 100 @90%. R=1min + 30m all out on the turn. R=8mins between sets.</p>
 
-                <p>30 / 30s. 9-10 revolutions.</p>
-                <p>800m cool down.</p> -->
+                           <p><b>200/400</b></p>
+                           <p>6 x 200 @90%. R=8mins between sets.</p>
+<br />
+                           <h4>Race plan: 100m</h4>
+                           <table class="tableSettings">
+                               <tbody>
+                                 <tr>
+                                     <td class="captionTableColumn">0-30m</td>
+                                     <td class="dataTableColumn">Acceleration, drive phase mechanics</td>
+                                 </tr>
+
+                                 <tr>
+                                     <td class="captionTableColumn">30m-55m</td>
+                                     <td class="dataTableColumn">Float - no matter what is going on around you - PATIENCE - wait for it!!!!!</td>
+                                 </tr>
+
+                                 <tr>
+                                     <td class="captionTableColumn">55m-80m</td>
+                                     <td class="dataTableColumn">Re-accelerate. Hips Tall. Focus on relaxed face, BIG ARMS. Emphasis on driving leg down into track. NOT on going faster.</td>
+                                 </tr>
+
+                                 <tr>
+                                     <td class="captionTableColumn">80m-100m</td>
+                                     <td class="dataTableColumn">Run tall, chest up, chin up, eyes forward, face RELAXED, hands RELAXED, over-emphasis arm motion - BE CONSISTENT in your stride. DO NOT BEAR DOWN to go faster.</td>
+                                 </tr>
+
+
+
+                               </tbody>
+                           </table>
+
+                           <h4>Race plan: 200m</h4>
+                                                      <table class="tableSettings">
+                                                          <tbody>
+                                                            <tr>
+                                                                <td class="captionTableColumn">0-30m</td>
+                                                                <td class="dataTableColumn">Acceleration, drive phase mechanics</td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td class="captionTableColumn">30m-110m</td>
+                                                                <td class="dataTableColumn">Float. From top of turn to end of turn, no matter what is going on around you - be patient! Let other athletes BURN THE TURN. When they tie up, you will be re-accelerating.</td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td class="captionTableColumn">110m-140m</td>
+                                                                <td class="dataTableColumn">Re-accelerate. Come off the turn strong, "whipping" around the top of the turn. Emphasis on arm motion: driving arms down and back. Hips tall.</td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td class="captionTableColumn">140m-200m</td>
+                                                                <td class="dataTableColumn">RELAX. Relax. relax. Relax the face. Relax the shoulders. Exaggerate your arm motion - it won't be as high as you think, but will affect your stride. Step over the opposite knee. Drive down.</td>
+                                                            </tr>
+
+
+
+                                                          </tbody>
+                                                      </table>
 
           </div>
 

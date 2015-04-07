@@ -362,3 +362,20 @@ h2 {
 .toggle-menu:hover {
     cursor: pointer;
 }
+
+
+
+
+
+
+.captionTableColumn {
+    width: 150px;
+    padding-bottom:20px;
+    vertical-align: text-top;
+}
+
+.dataTableColumn {
+    width: 350px;
+    padding-bottom:20px;
+    vertical-align: text-top;
+}
