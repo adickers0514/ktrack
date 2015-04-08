@@ -42,7 +42,16 @@
                 <h1 class="colorBlack">Practice Today:</h1>
                 <h3> {{ $today }}</h3>
 
+              <p>Practice @Kalaheo High School, 3:30-5:30-6PM</p>
 
+              <p><b>Mid/Long Distance:</b> See Coach Fiana's <a href="http://kalaheotrack.com/distance">practice and training schedule, updated for April.</a></p>
+
+
+              <p><b>Sprinters/Jumpers:</b> Warm up. Stretch. Speed Drills. </p>
+
+              <p>Special Kalaheo Tempo Day: see coach for details. You will not want to miss this practice. (@3:30) </p>
+
+<!--
                 <p>Castle High School - Fast Surface Practice</p>
 
                              <p><b>Mid/Long Distance:</b> See Coach Fiana's <a href="http://kalaheotrack.com/distance">practice and training schedule, updated for April.</a></p>
@@ -110,7 +119,7 @@
 
 
                                                           </tbody>
-                                                      </table>
+                                                      </table>-->
 
           </div>
 
