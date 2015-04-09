@@ -42,84 +42,106 @@
                 <h1 class="colorBlack">Practice Today:</h1>
                 <h3> {{ $today }}</h3>
 
-              <p>Practice @Kalaheo High School, 3:30-5:30-6PM</p>
+              <p>Practice @Castle High School, 4:00-@5:30-6PM</p>
 
               <p><b>Mid/Long Distance:</b> See Coach Fiana's <a href="http://kalaheotrack.com/distance">practice and training schedule, updated for April.</a></p>
 
 
-              <p><b>Sprinters/Jumpers:</b> Warm up. Stretch. Speed Drills. </p>
+              <p><b>Sprinters</b> 800m Warm up. Stretch. Speed Drills. </p>
 
-              <p>Special Kalaheo Tempo Day: see coach for details. You will not want to miss this practice. (@3:30) </p>
+              <p><b>Tempo Ladder:</b></p>
 
-<!--
-                <p>Castle High School - Fast Surface Practice</p>
+              <p>3200m:</p>
+              <p>Jog straights. Sprint curves. x 2</p>
+              <p>Jog curves. Sprint straights. x 2</p>
+              <p>Rest = 10 mins.</p>
 
-                             <p><b>Mid/Long Distance:</b> See Coach Fiana's <a href="http://kalaheotrack.com/distance">practice and training schedule, updated for April.</a></p>
+              <p>Repeat x 1</p>
 
+              <p><b>Injured reserve: (see coach for workout)</b></p>
+              <p>Keoni, Nate, Arthur, Grant, Jaden</p>
 
-                             <p><b>Sprinters/Jumpers:</b> 800m jog. Warm up. Stretch. Speed Drills. </p>
-                            <br />
-                             <p><b>100/200</b></p>
-                             <p>10 x 100 @90%. R=1min + 30m all out on the turn. R=8mins between sets.</p>
+              <br />
 
-                           <p><b>200/400</b></p>
-                           <p>6 x 200 @90%. R=8mins between sets.</p>
-<br />
-                           <h4>Race plan: 100m</h4>
-                           <table class="tableSettings">
-                               <tbody>
-                                 <tr>
-                                     <td class="captionTableColumn">0-30m</td>
-                                     <td class="dataTableColumn">Acceleration, drive phase mechanics</td>
-                                 </tr>
+              <p><b>Long jumpers:</b></p>
+              <p>Long jump pit work</p>
 
-                                 <tr>
-                                     <td class="captionTableColumn">30m-55m</td>
-                                     <td class="dataTableColumn">Float - no matter what is going on around you - PATIENCE - wait for it!!!!!</td>
-                                 </tr>
-
-                                 <tr>
-                                     <td class="captionTableColumn">55m-80m</td>
-                                     <td class="dataTableColumn">Re-accelerate. Hips Tall. Focus on relaxed face, BIG ARMS. Emphasis on driving leg down into track. NOT on going faster.</td>
-                                 </tr>
-
-                                 <tr>
-                                     <td class="captionTableColumn">80m-100m</td>
-                                     <td class="dataTableColumn">Run tall, chest up, chin up, eyes forward, face RELAXED, hands RELAXED, over-emphasis arm motion - BE CONSISTENT in your stride. DO NOT BEAR DOWN to go faster.</td>
-                                 </tr>
+              <p><b>Hurdlers:</b></p>
+              <p>Extended hurdle work after sprint workout</p>
 
 
+              <p><b>Easterns Prep:</b></p>
+              <p>Relay passes - 4x100 crew</p>
 
-                               </tbody>
-                           </table>
+              <!--
+                              <p>Castle High School - Fast Surface Practice</p>
 
-                           <h4>Race plan: 200m</h4>
-                                                      <table class="tableSettings">
-                                                          <tbody>
-                                                            <tr>
-                                                                <td class="captionTableColumn">0-30m</td>
-                                                                <td class="dataTableColumn">Acceleration, drive phase mechanics</td>
-                                                            </tr>
+                                           <p><b>Mid/Long Distance:</b> See Coach Fiana's <a href="http://kalaheotrack.com/distance">practice and training schedule, updated for April.</a></p>
 
-                                                            <tr>
-                                                                <td class="captionTableColumn">30m-110m</td>
-                                                                <td class="dataTableColumn">Float. From top of turn to end of turn, no matter what is going on around you - be patient! Let other athletes BURN THE TURN. When they tie up, you will be re-accelerating.</td>
-                                                            </tr>
 
-                                                            <tr>
-                                                                <td class="captionTableColumn">110m-140m</td>
-                                                                <td class="dataTableColumn">Re-accelerate. Come off the turn strong, "whipping" around the top of the turn. Emphasis on arm motion: driving arms down and back. Hips tall.</td>
-                                                            </tr>
+                                           <p><b>Sprinters/Jumpers:</b> 800m jog. Warm up. Stretch. Speed Drills. </p>
+                                          <br />
+                                           <p><b>100/200</b></p>
+                                           <p>10 x 100 @90%. R=1min + 30m all out on the turn. R=8mins between sets.</p>
 
-                                                            <tr>
-                                                                <td class="captionTableColumn">140m-200m</td>
-                                                                <td class="dataTableColumn">RELAX. Relax. relax. Relax the face. Relax the shoulders. Exaggerate your arm motion - it won't be as high as you think, but will affect your stride. Step over the opposite knee. Drive down.</td>
-                                                            </tr>
+                                         <p><b>200/400</b></p>
+                                         <p>6 x 200 @90%. R=8mins between sets.</p>
+              <br />
+                                         <h4>Race plan: 100m</h4>
+                                         <table class="tableSettings">
+                                             <tbody>
+                                               <tr>
+                                                   <td class="captionTableColumn">0-30m</td>
+                                                   <td class="dataTableColumn">Acceleration, drive phase mechanics</td>
+                                               </tr>
+
+                                               <tr>
+                                                   <td class="captionTableColumn">30m-55m</td>
+                                                   <td class="dataTableColumn">Float - no matter what is going on around you - PATIENCE - wait for it!!!!!</td>
+                                               </tr>
+
+                                               <tr>
+                                                   <td class="captionTableColumn">55m-80m</td>
+                                                   <td class="dataTableColumn">Re-accelerate. Hips Tall. Focus on relaxed face, BIG ARMS. Emphasis on driving leg down into track. NOT on going faster.</td>
+                                               </tr>
+
+                                               <tr>
+                                                   <td class="captionTableColumn">80m-100m</td>
+                                                   <td class="dataTableColumn">Run tall, chest up, chin up, eyes forward, face RELAXED, hands RELAXED, over-emphasis arm motion - BE CONSISTENT in your stride. DO NOT BEAR DOWN to go faster.</td>
+                                               </tr>
 
 
 
-                                                          </tbody>
-                                                      </table>-->
+                                             </tbody>
+                                         </table>
+
+                                         <h4>Race plan: 200m</h4>
+                                                                    <table class="tableSettings">
+                                                                        <tbody>
+                                                                          <tr>
+                                                                              <td class="captionTableColumn">0-30m</td>
+                                                                              <td class="dataTableColumn">Acceleration, drive phase mechanics</td>
+                                                                          </tr>
+
+                                                                          <tr>
+                                                                              <td class="captionTableColumn">30m-110m</td>
+                                                                              <td class="dataTableColumn">Float. From top of turn to end of turn, no matter what is going on around you - be patient! Let other athletes BURN THE TURN. When they tie up, you will be re-accelerating.</td>
+                                                                          </tr>
+
+                                                                          <tr>
+                                                                              <td class="captionTableColumn">110m-140m</td>
+                                                                              <td class="dataTableColumn">Re-accelerate. Come off the turn strong, "whipping" around the top of the turn. Emphasis on arm motion: driving arms down and back. Hips tall.</td>
+                                                                          </tr>
+
+                                                                          <tr>
+                                                                              <td class="captionTableColumn">140m-200m</td>
+                                                                              <td class="dataTableColumn">RELAX. Relax. relax. Relax the face. Relax the shoulders. Exaggerate your arm motion - it won't be as high as you think, but will affect your stride. Step over the opposite knee. Drive down.</td>
+                                                                          </tr>
+
+
+
+                                                                        </tbody>
+                                                                    </table>-->
 
           </div>
 

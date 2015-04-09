@@ -37,7 +37,7 @@
 
     <div class="content_wrapper backgroundColorWhite">
         <div class="page_container">
-            <div class="page_core page_content">
+            <div class="page_core page_content_wide">
 
                 <h1 class="colorBlack">Performance</h1>
 
