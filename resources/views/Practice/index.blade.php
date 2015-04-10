@@ -42,37 +42,18 @@
                 <h1 class="colorBlack">Practice Today:</h1>
                 <h3> {{ $today }}</h3>
 
-              <p>Practice @Castle High School, 4:00-@5:30-6PM</p>
+              <p>Practice @Kalaheo High School, 3:30-@4:30-5PM</p>
 
               <p><b>Mid/Long Distance:</b> See Coach Fiana's <a href="http://kalaheotrack.com/distance">practice and training schedule, updated for April.</a></p>
 
+            <p>Sprinters/Jumpers:</b> Warm up. Stretch.</p>
+            <p>Varsity Pre-Easterns Meet Prep</p>
+            <p>300m x 2 @ 50%</p>
+            <p>100m x 2 @ 70%</p>
 
-              <p><b>Sprinters</b> 800m Warm up. Stretch. Speed Drills. </p>
-
-              <p><b>Tempo Ladder:</b></p>
-
-              <p>3200m:</p>
-              <p>Jog straights. Sprint curves. x 2</p>
-              <p>Jog curves. Sprint straights. x 2</p>
-              <p>Rest = 10 mins.</p>
-
-              <p>Repeat x 1</p>
-
-              <p><b>Injured reserve: (see coach for workout)</b></p>
-              <p>Keoni, Nate, Arthur, Grant, Jaden</p>
-
-              <br />
-
-              <p><b>Long jumpers:</b></p>
-              <p>Long jump pit work</p>
-
-              <p><b>Hurdlers:</b></p>
-              <p>Extended hurdle work after sprint workout</p>
-
-
-              <p><b>Easterns Prep:</b></p>
-              <p>Relay passes - 4x100 crew</p>
-
+            <p>Hurdlers: hurdle work as needed</p>
+            <p>High Jumpers: haul out mats, jump as needed</p>
+            
               <!--
                               <p>Castle High School - Fast Surface Practice</p>
 
