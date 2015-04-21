@@ -54,18 +54,18 @@
               <p><b>Sprinters/Jumpers:</b>  Extended Warm up. Stretch. Speed Drills. </p>
 
               <p>Tempo runs:</p>
-              <p>(6 x 80m run @75%. jog straights. Continuous. Rest = 4mins.) x 3</p>
+              <p>(6 x 40m run @75%. jog ends. Continuous. Rest = 4mins.) x 3</p>
 
-              <p>Bodyweight circuit (2 laps):</p>
+              <p>Bodyweight circuit (2/3 laps):</p>
               <p>Work all 4 corners of the field - sprint between stations:</p>
-              <p>station 1: push-ups @60 secs.</p>
-              <p>station 2: crunches @90 secs</p>
-              <p>station 3: mountain climbers @45 secs.</p>
-              <p>station 1: burpees @60 secs</p>
+              <p>station 1: push-ups @20 secs.</p>
+              <p>station 2: crunches @20 secs</p>
+              <p>station 3: mountain climbers @20 secs.</p>
+              <p>station 4: burpees @20 secs</p>
 
 
 
-              <p>No weight room today!!!!</p>
+              <p>- No weight room today - that's right no weight room today!</p>
 
 
               <!-- <h3>Dissecting your race pace</h3>
