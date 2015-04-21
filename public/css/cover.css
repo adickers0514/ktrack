@@ -153,6 +153,7 @@ section {
 }
 
 .page_content {	max-width: 600px;}
+.page_content_wide {	max-width: 1000px;}
 
 .newspaperColumn {
     display: block;

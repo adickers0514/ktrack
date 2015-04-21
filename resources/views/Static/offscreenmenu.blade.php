@@ -11,6 +11,7 @@
 
         <li class="allCaps vertGap">Track Records @Kalaheo </li>
         <li class="allCaps">World Records: Track & Field</li>
+        <a href="/results/oia_state_standards_2015.pdf"><li class="allCaps">Qualifying Standards: 2015</li></a>
 
 
         <li class="allCaps vertGap">Sprints & Hurdles</li>

@@ -20,7 +20,7 @@ class StaticPagesController extends Controller {
 
     public function trainingplan() {
 
-        return response()->download( public_path() . '/training/march_middle_distance_distance_training_plan_kalaheo_2015.pdf', 'march_middle_distance_distance_training_plan_kalaheo_2015.pdf', ['content-type'=>'application/pdf']);
+        return response()->download( public_path() . '/training/april_middle_distance_distance_training_plan_kalaheo_2015.pdf', 'april_middle_distance_distance_training_plan_kalaheo_2015.pdf', ['content-type'=>'application/pdf']);
     }
 
 }

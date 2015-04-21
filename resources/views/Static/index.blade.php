@@ -78,7 +78,22 @@
           <div class="page_core page_content">
 
 
-<div class="colorDarkGray parentTypeLarge">
+
+
+                  <div class="colorDarkGray parentTypeLarge">
+
+                      <h1>Qualifying Standards</h1>
+                      <h3>OIA JV, Varsity and State Qualifying standard times for all events</h3>
+                      <p><a href="/results/oia_state_standards_2015.pdf">Click here to view</a> the OIA (JV and Varsity), state qualifying standards, as of March 2015.</p>
+                      <hr />
+                  </div>
+
+
+
+
+
+                  <div class="colorDarkGray parentTypeLarge">
+
             <h1>Meet Results </h1>
             <h3>Junior Varsity Eastern Division Championship from Kaiser High School</h3>
                 <p><a href="/results/04042015_JV_easterns.pdf">Results report</a> from Kaiser, where the eastern division of the OIA descended for what was a pretty poorly run track meet! While it took quite a while to get through the meet with all the technical difficulties and errors, the Kalaheo JV team performed admirably in the face of strong competition. </p>

@@ -29,7 +29,7 @@ Route::get('contact','StaticPagesController@contact');
 Route::get('practice', 'PracticeController@index');
 Route::get('schedule', 'ScheduleController@index');
 Route::get('register', 'RegistrationController@index');
-
+Route::get('performance', 'PerformanceReportController@index');
 
 Route::get('/results/{object}', 'ResultsController@getresults');
 
