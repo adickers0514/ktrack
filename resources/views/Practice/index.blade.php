@@ -42,7 +42,7 @@
               <h1 class="colorBlack">Practice Today:</h1>
               <h3> {{ $today }}</h3>
 
-              <p>Practice @Kalaheo High School, 3:30-@4:30-6PM</p>
+              <p>Practice @Castle High School, 4:00 - @5:30PM</p>
 
               <p><b>Mid/Long Distance:</b> See Coach Fiana's <a href="http://kalaheotrack.com/distance">practice and training schedule, updated for April.</a></p>
 
@@ -51,21 +51,20 @@
 
 
 
-              <p><b>Sprinters/Jumpers:</b>  Extended Warm up. Stretch. Speed Drills. </p>
+              <p><b>Sprinters/Jumpers:</b>  800m job. Warm up. Stretch. Speed Drills. </p>
 
-              <p>Tempo runs:</p>
-              <p>(6 x 40m run @75%. jog ends. Continuous. Rest = 4mins.) x 3</p>
-
-              <p>Bodyweight circuit (2/3 laps):</p>
-              <p>Work all 4 corners of the field - sprint between stations:</p>
-              <p>station 1: push-ups @20 secs.</p>
-              <p>station 2: crunches @20 secs</p>
-              <p>station 3: mountain climbers @20 secs.</p>
-              <p>station 4: burpees @20 secs</p>
+              <p>Speed endurance workout:</p>
+              <p>400 @70%. R = 4mins</p>
+              <p>300 @80%. R = 3mins</p>
+              <p>200 @85%. R = 2mins</p>
+              <p>100 @90%</p>
 
 
+              <p>Punahou Relays hand-off practice</p>
+              <p>Open handoffs for 4 x 200</p>
+              <p>Closed handoffs for 4 x 100</p>
 
-              <p>- No weight room today - that's right no weight room today!</p>
+              <p>Block starts, High jump / Long jump as desired</p>
 
 
           </div>
