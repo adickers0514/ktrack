@@ -42,7 +42,7 @@
                 <h1 class="colorBlack">Practice Today:</h1>
                 <h3> {{ $today }}</h3>
 
-              <p>Practice @Kalaheo High School, 3:30-@4:30-6PM</p>
+              <p>Practice @Castle High School, 4:00-@5:30</p>
 
               <p><b>Mid/Long Distance:</b> See Coach Fiana's <a href="http://kalaheotrack.com/distance">practice and training schedule, updated for April.</a></p>
 
@@ -53,6 +53,7 @@
 
               <p><b>Sprinters/Jumpers:</b>  Extended Warm up. Stretch. Speed Drills. </p>
 
+<<<<<<< HEAD
               <p>Tempo runs:</p>
               <p>(6 x 40m run @75%. jog ends. Continuous. Rest = 4mins.) x 3</p>
 
@@ -66,6 +67,10 @@
 
 
               <p>- No weight room today - that's right no weight room today!</p>
+=======
+              <p>Pre-meet light workout. 4 x 100 relay passes. high Jump. Long jump. Block starts.</p>
+              
+>>>>>>> 7edf93b44dc38108dd2abfd70cffbcb4b73ade97
 
 
               <!-- <h3>Dissecting your race pace</h3>
