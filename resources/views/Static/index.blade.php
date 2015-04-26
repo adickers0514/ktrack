@@ -79,6 +79,17 @@
 
 
 
+<div class="colorDarkGray parentTypeLarge">
+
+                      <h1>Results Published</h1>
+                      <p>Lots of results published, so we should have all the meet data available for your review. See the <a href="/schedule">schedule & results</a> page for details.</p>
+
+                      <hr />
+                  </div>
+
+
+
+
 
                   <div class="colorDarkGray parentTypeLarge">
 
