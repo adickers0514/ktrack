@@ -42,11 +42,60 @@
               <h1 class="colorBlack">Practice Today:</h1>
               <h3> {{ $today }}</h3>
 
+<<<<<<< HEAD
+              <p>Practice @Castle High School, 4:00-@5:30</p>
+=======
               <p>Practice @Castle High School, 4:00 - @5:30PM</p>
+>>>>>>> 9382ad7fc7f1b457549aaee9b001d60cdd3d00e3
 
               <p><b>Mid/Long Distance:</b> See Coach Fiana's <a href="http://kalaheotrack.com/distance">practice and training schedule, updated for April.</a></p>
 
 
+<<<<<<< HEAD
+             <br />
+
+
+
+              <p><b>Sprinters/Jumpers:</b>  Extended Warm up. Stretch. Speed Drills. </p>
+
+<<<<<<< HEAD
+              <p>Tempo runs:</p>
+              <p>(6 x 40m run @75%. jog ends. Continuous. Rest = 4mins.) x 3</p>
+
+              <p>Bodyweight circuit (2/3 laps):</p>
+              <p>Work all 4 corners of the field - sprint between stations:</p>
+              <p>station 1: push-ups @20 secs.</p>
+              <p>station 2: crunches @20 secs</p>
+              <p>station 3: mountain climbers @20 secs.</p>
+              <p>station 4: burpees @20 secs</p>
+
+
+
+              <p>- No weight room today - that's right no weight room today!</p>
+=======
+              <p>Pre-meet light workout. 4 x 100 relay passes. high Jump. Long jump. Block starts.</p>
+              
+>>>>>>> 7edf93b44dc38108dd2abfd70cffbcb4b73ade97
+
+
+              <!-- <h3>Dissecting your race pace</h3>
+
+              <P>100m @15.0 = 200m @30.05</P>
+              <P>100m @14.0 = 200m @28.19</P>
+              <P>100m @13.2 = 200m @26.65</P>
+              <P>100m @12.8 = 200m @25.86</P>
+              <P>100m @12.2 = 200m @24.65</P>
+              <P>100m @12.0 = 200m @24.24</P>
+              <P>100m @11.9 = 200m @24.03</P>
+              <P>100m @11.8 = 200m @23.82</P>
+              <P>100m @11.7 = 200m @23.62</P>
+              <P>100m @11.5 = 200m @23.20</P>
+              <P>100m @11.4 = 200m @22.99</P>
+              <P>100m @11.0 = 200m @22.14</P>
+              <P>100m @10.5 = 200m @21.07</P>
+
+=======
+>>>>>>> 9382ad7fc7f1b457549aaee9b001d60cdd3d00e3
               <br />
 
 
