@@ -42,6 +42,10 @@
               <h1 class="colorBlack">Practice Today:</h1>
               <h3> {{ $today }}</h3>
 
+            <p>( new practice notes available after 1PM Monday 27 APRIL )</p>
+
+
+<!--
               <p>Practice @Castle High School, 4:00 - @5:30PM</p>
 
               <p><b>Mid/Long Distance:</b> See Coach Fiana's <a href="http://kalaheotrack.com/distance">practice and training schedule, updated for April.</a></p>
@@ -65,7 +69,7 @@
               <p>Closed handoffs for 4 x 100</p>
 
               <p>Block starts, High jump / Long jump as desired</p>
-
+-->
 
           </div>
     </div>
