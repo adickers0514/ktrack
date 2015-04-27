@@ -50,10 +50,6 @@
 
               <br />
 
-
-
-              <p><b>Sprinters/Jumpers:</b>Warm up. Stretch. Speed Drills. </p>
-
               <p>Pre-championship power workout</p>
 
               <br />
