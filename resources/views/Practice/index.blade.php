@@ -42,11 +42,8 @@
               <h1 class="colorBlack">Practice Today:</h1>
               <h3> {{ $today }}</h3>
 
-            <p>( new practice notes available after 1PM Monday 27 APRIL )</p>
 
-
-<!--
-              <p>Practice @Castle High School, 4:00 - @5:30PM</p>
+              <p>Practice @Kalaheo High School, 3:30 - @5:30PM</p>
 
               <p><b>Mid/Long Distance:</b> See Coach Fiana's <a href="http://kalaheotrack.com/distance">practice and training schedule, updated for April.</a></p>
 
@@ -55,21 +52,27 @@
 
 
 
-              <p><b>Sprinters/Jumpers:</b>  800m job. Warm up. Stretch. Speed Drills. </p>
+              <p><b>Sprinters/Jumpers:</b>Warm up. Stretch. Speed Drills. </p>
 
-              <p>Speed endurance workout:</p>
-              <p>400 @70%. R = 4mins</p>
-              <p>300 @80%. R = 3mins</p>
-              <p>200 @85%. R = 2mins</p>
-              <p>100 @90%</p>
+              <p>Pre-championship power workout</p>
 
+              <br />
+              <p><b>Focus on power application & mechanics</b></p>
+              <p>400m athletes (Kiani, Kelsey, Grant, Zach, Nate, etc)</p>
+              <p>50m @90% > jog 150m</p>
+              <p>100m @85% > jog 100m</p>
+              <p>150m @80% > jog 50m</p>
+              <p>200m @75% > jog 200m</p>
+              <p>Rest = 7mins.  x 2/3</p>
 
-              <p>Punahou Relays hand-off practice</p>
-              <p>Open handoffs for 4 x 200</p>
-              <p>Closed handoffs for 4 x 100</p>
+              <br />
 
-              <p>Block starts, High jump / Long jump as desired</p>
--->
+              <p><b>Focus on power application, straight-line-energy, <br />with R E L A X A T I O N</b></p>
+              <p>Jumpers, Vaulters, 100/200m athletes (Arthur, Keoni, Mark, Jaden, Kowalski, Anthony, Evelyn, Jessica, Daniel, Corey, Julian, etc)</p>
+              <p>20m accelerations x 12 @90%</p>
+
+                <br />
+              <p>body weight circuit. 2 lap cool down.</p>
 
           </div>
     </div>
