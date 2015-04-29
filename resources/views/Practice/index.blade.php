@@ -43,33 +43,32 @@
               <h3> {{ $today }}</h3>
 
 
-              <p>Practice @Kalaheo High School, 3:30 - @5:30PM</p>
+              <p>Practice @Castle High School, 3:30 - @5:30-6:00PM</p>
+              
+              
+              <p><b>IMPORTANT</b></p>
+              <p>As you are all aware, Kalaheo's prom is Saturday night. Both Coach Tony and Myself will be driving kids to prom, so we are unable to stay for the entire meet. Our intention is to have a bus take all parties TO the meet on Saturday at Mililani. However, we would like to cancel the bus home, as have each athlete procure their own ride home. Currently, we are not contesting a Girls or Boys 4x400, so our last event is at 7:40 with the Boys 3000m. Please make every attempt to get a ride home on Saturday. For tomorrow's trials - we will have a bus going and coming from Mililani.</p>
 
               <p><b>Mid/Long Distance:</b> See Coach Fiana's <a href="http://kalaheotrack.com/distance">practice and training schedule, updated for April.</a></p>
 
 
               <br />
 
-              <p>Pre-championship power workout</p>
+              <p>Vars Champs light workout</p>
 
               <br />
-              <p><b>Focus on power application & mechanics</b></p>
-              <p>400m athletes (Kiani, Kelsey, Grant, Zach, Nate, etc)</p>
-              <p>50m @90% > jog 150m</p>
-              <p>100m @85% > jog 100m</p>
-              <p>150m @80% > jog 50m</p>
-              <p>200m @75% > jog 200m</p>
-              <p>Rest = 7mins.  x 2/3</p>
+              <p>800m warm job. Extended Warm up. Speed drills.""
 
               <br />
 
-              <p><b>Focus on power application, straight-line-energy, <br />with R E L A X A T I O N</b></p>
-              <p>Jumpers, Vaulters, 100/200m athletes (Arthur, Keoni, Mark, Jaden, Kowalski, Anthony, Evelyn, Jessica, Daniel, Corey, Julian, etc)</p>
-              <p>20m accelerations x 12 @90%</p>
+              <p><b>4 x 100m</b> (POOL = Arthur, Mark, Jaden, Nate, Keoni, Grant, Julian) relay passes in spikes - 20mins max</p>
+              <p>300m hurdles 2 hurdles from blocks - 30mins max</p>
+              
+              
+              <p>Block starts as needed (Jessica, Kiani, Keoni)</p>
+              
 
-                <br />
-              <p>body weight circuit. 2 lap cool down.</p>
-
+              
           </div>
     </div>
   </div>
