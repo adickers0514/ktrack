@@ -78,6 +78,21 @@
           <div class="page_core page_content">
 
 
+<div class="colorDarkGray parentTypeLarge">
+
+                      <h1>Vars Champs - Transportation</h1>
+                      
+                      <p><a href="/results/vars_champs_info.pdf">OIA Varsity Champs Meet information packet</a></p>
+                      <br />
+                      <p>As you are all aware, Kalaheo's prom is on Saturday night. Both Coach Tony and Myself will be driving kids to prom, so we are unable to stay for the entire meet. Our intention is to have a bus take all parties TO the meet on Saturday at Mililani. However, we would like to cancel the bus home, and have each athlete procure their ride home.</p> <p>As of Wednesday 29 April, we are not contesting a Girls or Boys 4x400, so our last event is at 7:40 with the Boys 3000m. Please make every attempt to get a ride home on Saturday. For tomorrow's trials - we will have a bus going and coming from Mililani.</p>
+
+
+                      <hr />
+                  </div>
+
+
+
+
 
 <div class="colorDarkGray parentTypeLarge">
 
