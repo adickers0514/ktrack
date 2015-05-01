@@ -43,9 +43,9 @@
               <h3> {{ $today }}</h3>
 
 
-              <p>Practice @Castle High School, 3:30 - @5:30-6:00PM</p>
+              <p>NO PRACTICE TODAY, NO PRACTICE MONDAY MAY 4th. Practice resumes Tuesday May 5th, @Castle High School, 4PM</p>
               
-              
+              <!--
               <p><b>IMPORTANT</b></p>
               <p>As you are all aware, Kalaheo's prom is Saturday night. Both Coach Tony and Myself will be driving kids to prom, so we are unable to stay for the entire meet. Our intention is to have a bus take all parties TO the meet on Saturday at Mililani. However, we would like to cancel the bus home, as have each athlete procure their own ride home. Currently, we are not contesting a Girls or Boys 4x400, so our last event is at 7:40 with the Boys 3000m. Please make every attempt to get a ride home on Saturday. For tomorrow's trials - we will have a bus going and coming from Mililani.</p>
 
@@ -65,7 +65,7 @@
               <p>300m hurdles 2 hurdles from blocks - 30mins max</p>
               
               
-              <p>Block starts as needed (Jessica, Kiani, Keoni)</p>
+              <p>Block starts as needed (Jessica, Kiani, Keoni)</p>-->
               
 
               
