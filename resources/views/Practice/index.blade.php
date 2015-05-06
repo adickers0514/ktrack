@@ -43,29 +43,72 @@
               <h3> {{ $today }}</h3>
 
 
-              <p>NO PRACTICE TODAY, NO PRACTICE MONDAY MAY 4th. Practice resumes Tuesday May 5th, @Castle High School, 4PM</p>
+              <p>STAE CHAMPIONSHIP PREP: @Castle High School, 4PM-6PM</p>
+              <br />
+              <p>To keep practice efficient and focused, non-state competitors may join the workout, but extended horseplay, and unfocused participants will be booted from practice </p>
+              <p>These are the final 2 weeks of practice. Let's keep it tight, and get focused people!</p>
               
-              <!--
-              <p><b>IMPORTANT</b></p>
-              <p>As you are all aware, Kalaheo's prom is Saturday night. Both Coach Tony and Myself will be driving kids to prom, so we are unable to stay for the entire meet. Our intention is to have a bus take all parties TO the meet on Saturday at Mililani. However, we would like to cancel the bus home, as have each athlete procure their own ride home. Currently, we are not contesting a Girls or Boys 4x400, so our last event is at 7:40 with the Boys 3000m. Please make every attempt to get a ride home on Saturday. For tomorrow's trials - we will have a bus going and coming from Mililani.</p>
+              <br />
+                            <br />
+              <p><b>Mid/Long Distance:</b></p>
 
-              <p><b>Mid/Long Distance:</b> See Coach Fiana's <a href="http://kalaheotrack.com/distance">practice and training schedule, updated for April.</a></p>
+              <p>For the next two weeks, you will notice a steady decline in distance and intensity has shifted more on tune-up workouts with speed. Athletes will begin the taper process to peak at states and to be fully rested for the race at states. Many athletes struggle with doing much less at this point, and try to run the easy runs harder, or even do extra work on the weekends. Please encourage them to take the REST and prepare mentally for the state meet (the physical part is there)!!</p>
+
+              <p>
+
+              <b>NEXT TWO WEEKS:</b><br /></p>
+
+              <p>Monday 5/4: Those who raced at OIA Finals (Percie & Avery), will be a shorter run (15-20 mins), core, striders. Rest of the crew 30-35 min. maintenance run with 6-8x100 m.striders and core.</p>
+
+              <p>Tuesday 5/5- Track Workout: 1 mile warm up, active stretching, 4 strides (50 meters).</p>
+              <p>Workout is: 1x600, 2x400, 2x200 2 min. recovery between each item. 2 lap cool down. Stretch. Foam Roll & Ice (at night)</p>
+
+              <p>Wednesday 5/6: Maintenance Run- 20-30 minutes (beginning the taper). 8x100 meter strides. Stretch & Core.</p>
+
+              <p>Thursday: 5/7- Track workout @ Castle- 1 mile warm up, active stretching & 4 strides.</p>
+              <p>Workout: 8x200meters at 800 meter race pace w/full recovery 2 minutes. 2 lap cool down. Stretch.</p>
+
+              <p>Friday:5/8:  20 minutes (easy run). 5x100 meter strides. Stretch. Foam Roll & Ice</p>
+
+              <p>Saturday & Sunday (5/9-5/10) OFF (taper!- fresh legs for STATES!).</p>
+
+
+              <p>Monday 5/11: 30 minutes w/strides</p>
+
+              <p>Tuesday 5/12 : Last track workout @ Castle: 1 mile warm-up, active stretching, strides</p>
+              <p>Workout: 1x400  1x300 1x200 (focus on fast yet controlled- "cruise") Boys: 62, 45, 28; Girls: 68, 50, 32. 1 mile cool down.</p>
+
+              <p>Wednesday 5/13: 20-30 minutes 8x100 accelerated strides. Stretch. Foam Roll/Ice</p>
+
+              <p>Thursday 5/14: Easy 10-15 minutes. Get on Castle track if possible- put on spikes, do starts, blocks, handoffs, and 6-8x100 meter strides. Stretch.</p>
+
+              <p>Friday/Saturday 5/15-5/16: STATES IN MAUI!!</p>
 
 
               <br />
+              <br />
 
-              <p>Vars Champs light workout</p>
+
+              <p><b>4x100 Relay Team:</b> RELAY PASSING CLINIC (Arthur, Nate, Grant, Keoni, Julian (alt)</p>
 
               <br />
               <p>800m warm job. Extended Warm up. Speed drills.""
 
               <br />
 
-              <p><b>4 x 100m</b> (POOL = Arthur, Mark, Jaden, Nate, Keoni, Grant, Julian) relay passes in spikes - 20mins max</p>
-              <p>300m hurdles 2 hurdles from blocks - 30mins max</p>
-              
-              
-              <p>Block starts as needed (Jessica, Kiani, Keoni)</p>-->
+              <p>High Quality Relay passes  @90% until coach is satisfied</p>
+              <b>Dropped batons will be tolerated, but will result in team push-ups on demand (@15-20) - SO DON'T DROP THE BATON</b>
+              <p>2 complete 4 x 100 races. Rest = 30mins</p>
+
+              <p>3 x 150m. Rest = 15 mins.</p>
+
+              <br />
+
+              <p><b>Horizontal Jumpers</b></p>
+
+              <p>Pit work as needed</p>
+
+
               
 
               
