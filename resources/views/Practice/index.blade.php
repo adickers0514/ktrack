@@ -43,7 +43,7 @@
               <h3> {{ $today }}</h3>
 
 
-              <p>STAE CHAMPIONSHIP PREP: @Castle High School, 4PM-6PM</p>
+              <p>STATE CHAMPIONSHIP PREP: @Castle High School, 4PM-6PM</p>
               <br />
               <p>To keep practice efficient and focused, non-state competitors may join the workout, but extended horseplay, and unfocused participants will be booted from practice </p>
               <p>These are the final 2 weeks of practice. Let's keep it tight, and get focused people!</p>
