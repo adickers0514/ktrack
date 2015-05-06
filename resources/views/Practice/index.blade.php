@@ -92,17 +92,19 @@
               <p><b>4x100 Relay Team:</b> RELAY PASSING CLINIC (Arthur, Nate, Grant, Keoni, Julian (alt)</p>
 
               <br />
-              <p>800m warm job. Extended Warm up. Speed drills.""
+              <p>800m warm job. Extended Warm up. Speed drills.</p>
+
+              <br />
+
+              <p>Speed ladder (in field, @80%, in flats): 20yrds. R = walk back. 40yrds. R = walk back. 60yrds. R = walk back. 80yrds. R = walk back. Reverse. X 2</p>
+
+              <p>2 x 200m in flats, under 30</p>
 
               <br />
 
               <p>High Quality Relay passes  @90% until coach is satisfied</p>
               <b>Dropped batons will be tolerated, but will result in team push-ups on demand (@15-20) - SO DON'T DROP THE BATON</b>
-              <p>2 complete 4 x 100 races. Rest = 30mins</p>
 
-              <p>3 x 150m. Rest = 15 mins.</p>
-
-              <br />
 
               <p><b>Horizontal Jumpers</b></p>
 
